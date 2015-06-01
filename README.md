@@ -12,7 +12,7 @@ To estimate similarity we use data from the:
 
  - [ ] professional web pages of the scientists and their laboratory
  - [ ] titles and abstracts of scientific publications indexed in PubMed or ISI Web of Knowledge
- - [ ] pattern of citations from ISI Web of Knowledge
+ - [ ] pattern of citations from ISI Web of Knowledges
 
 Usage 
 ==============
@@ -25,7 +25,7 @@ Backend
 
  2. Pre-processing for natural language processing
 
- 3. Formatting for app
+ 3. Formatting for app 
 
 
   1. scrape_sinai.sh 
