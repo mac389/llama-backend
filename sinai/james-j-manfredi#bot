@@ -1,0 +1,128 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   james.manfredi@mssm.edu
+
+   M.S., Albert Einstein College of Medicine
+
+   Ph.D., Albert Einstein College of Medicine
+
+   The C-terminal basic region of p53 in transcriptional regulation and
+   tumor suppression
+
+   Role of p53 in cell cycle checkpoints
+
+   Transcriptional regulation of apoptosis
+
+   St. Clair S, Giono L, Varmeh-Ziaie S, Resnick-Silverman L, Liu WJ, Padi
+   A, Dastidar J, DaCosta A, Mattia M, Manfredi JJ. DNA damage-induced
+   downregulation of Cdc25C is mediated by p53 via two independent
+   mechanisms: one involves direct binding to the cdc25C promoter. Mol
+   Cell 2004; 16: 725-736.
+
+   Manfredi JJ, Dong J, Liu WJ, Resnick-Silverman L, Qiao R, Chahinian P,
+   Saric M, Gibbs AR, Phillips JI, Murray J, Axten CW, Nolan RP, Aaronson
+   SA. Evidence against a role for SV40 in human mesothelioma. Cancer
+   research 2005 Apr; 65(7).
+
+   Giono LE, Manfredi JJ. Mdm2 is required for inhibition of Cdk2 activity
+   by p21, thereby contributing to p53-dependent cell cycle arrest.
+   Molecular and cellular biology 2007 Jun; 27(11).
+
+   Varmeh-Ziaie S, Manfredi JJ. The dual specificity phosphatase Cdc25B,
+   but not the closely related Cdc25C, is capable of inhibiting cellular
+   proliferation in a manner dependent upon its catalytic activity. The
+   Journal of biological chemistry 2007 Aug; 282(34).
+
+   Torti FM, Altieri D, Broach J, Fan H, Lotze M, Manfredi J, Matrisian L,
+   Yu D, Giaccia A. Ph.D. Training in cancer biology. Cancer research 2008
+   Nov; 68(22).
+
+   Varmeh S, Manfredi JJ. Overexpression of the dual specificity
+   phosphatase, Cdc25C, confers sensitivity on tumor cells to
+   doxorubicin-induced cell death. Molecular cancer therapeutics 2008 Dec;
+   7(12).
+
+   Varmeh S, Manfredi JJ. Inappropriate activation of cyclin-dependent
+   kinases by the phosphatase Cdc25b results in premature mitotic entry
+   and triggers a p53-dependent checkpoint. The Journal of biological
+   chemistry 2009 Apr; 284(14).
+
+   Manfredi JJ. The Mdm2-p53 relationship evolves: Mdm2 swings both ways
+   as an oncogene and a tumor suppressor. Genes & development 2010 Aug
+   24(15).
+
+   Hamard PJ, Lukin DJ, Manfredi JJ. p53 basic C terminus regulates p53
+   functions through DNA binding modulation of subset of target genes. The
+   Journal of biological chemistry 2012 Jun; 287(26).
+
+   Carvajal LA, Hamard PJ, Tonnessen C, Manfredi JJ. E2F7, a novel target,
+   is up-regulated by p53 and mediates DNA damage-dependent
+   transcriptional repression. Genes & development 2012 Jul; 26(14).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Manfredi did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 75-A
+   1425 Madison Avenue
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 15 Room 1575A
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49683-1623TMP.html
+javascript:window.print()
+mailto:james.manfredi@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,120 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   cathie.pfleger@mssm.edu
+
+   MGH Cancer Center/Harvard and UC Berkeley
+
+   A.B., Princeton University
+
+   Ph.D., Harvard Medical School
+
+   2008 - 2010
+   Kimmel Scholar Award
+
+   Yan H, Chin ML, Horvath EA, Kane EA, Pfleger CM. Impairing
+   ubiquitination by mutation in Drosophila E1 promote cell autonomous and
+   non-autonomous Ras/ERK activation in vivo. Journal of Cell Science; In
+   Press.
+
+   Pfleger CM, Harvey KF, Yan H, Hariharan IK. Mutation of the Ubiquitin
+   Activating Enzyme Uba1 causes tissue overgrowth in Drosophila. Fly
+   2007;(1): 95-105.
+
+   Mills K, Harvey KF, Daish T, Pflege CM, Hariharan IK, Kumar S. The
+   Drosophila melanogaster Apaf-1 homologue ARK is required for most, but
+   not all, programmed cell death. J Cell Biol 2006;(172): 809-815.
+
+   Chuang LC, XN ZH, Herrera CR, Tseng HM, Pfleger CM, Block K, Yew PR.
+   The C-terminal domain of the Xenopus cyclin-dependent kinase inhibitor,
+   p27Xic1, is both necessary and sufficient for
+   phosphorylation-independent proteolysis. J Biol Chem 2005;(280):
+   35290-35298.
+
+   Pfleger CM, Dellale I, Buff E, Lueras P, Hariharan IK. Mutations in the
+   Drosophila orthologs of the F-actin capping protein-and-subunits cause
+   actin accumulation and subsequent retinal degeneration. Genetics
+   2005;(171): 1757-1765.
+
+   Harvey KF, Pfleger CM, Hariharan IK. The Drosophila Mst ortholog,
+   hippo, restricts growth and cell proliferation and promotes apoptosis.
+   Cell 2003;(114): 457-467.
+
+   Chabes AL, Pfleger CM, Kirschner MW, Thelander L. Mouse ribonucleotide
+   reductase R2 protein: a new target for anaphase-promoting
+   complex-Cdh1-mediated proteolysis. PNAS U S A 2003;(100): 3925-3929.
+
+   Pfleger CM, Lee E, Kirschner MW. Substrate recognition by the Cdc20 and
+   Cdh1 components of the anaphase-promoting complex. Genes and Developm
+   2001;(15): 2396-2407.
+
+   Pfleger CM, Salic A, Lee E, Kirschner MW. Inhibition of Cdh1-APC by the
+   MAD2-related protein MAD2L2: a novel mechanism for regulating Cdh1.
+   Genes and Development 2001;(15): 1759-1764.
+
+   Pfleger CM, Kirschner MW. The KEN box: an APC recognition signal
+   distinct from the D box targeted by Cdh1. Genes and Development
+   2000;(14): 655-655.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Pfleger did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 15-20D
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49766-3112TMP.html
+javascript:window.print()
+mailto:cathie.pfleger@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

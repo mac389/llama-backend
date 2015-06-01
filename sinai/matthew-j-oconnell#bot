@@ -1,0 +1,237 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   matthew.oconnell@mssm.edu
+
+   PhD, University of Adelaide
+
+   University of Oxford
+
+   UMDNJ-Robert Wood Johnson Medical School
+
+   Imperial Cancer Research Fund
+
+   2014 - 2014
+   Edward J. Ronin Award
+   Graduate School of Biomedical Sciences, ISMMS
+
+   2011 - 2011
+   Outstanding Teaching by a Faculty Award, Graduate School of Biological
+   Sciences
+   Mount Sinai School of Medicine
+
+   2010 - 2010
+   Excellence in Teaching Award, Institute of Medical Education
+   Mount Sinai School of Medicine
+
+   2000 - 2005
+   Scholar of the Leukemia and Lymphoma Society
+
+   1993 - 1996
+   Special Fellowship of the Leukemia Society of America
+
+   1989 - 1990
+   Australian Postgraduate Priority Research Award
+
+   1987 - 1989
+   Commonwealth Postgraduate Research Award
+
+   1986 - 1986
+   Fisher Scholarship in Honors Genetics
+   University of Adelaide
+
+   1985 - 1985
+   R. A. Fisher Prize in Genetics
+   University of Adelaide
+
+   Specific Clinical/Research Interest: Regulation of the cell cycle;
+   control over genomic stability and chromosome dynamics; the design of
+   novel strategies for anti-cancer therapies
+
+   Current Students: Kevin Barnum and Nagma Shah
+
+   Postdoctoral Fellows: Claudia Tapia-Alveal, Su-Jiun Lin
+
+   Research Associate: Cara Reynolds, Aaron Yeoh
+
+   Summary of Research Studies:
+   Perhaps the most fundamental process in biology is that by which one
+   cell becomes two. Our research focuses on two related aspects of the
+   biology that controls the integrity of the genome.
+
+
+   1. We study the control of the cell division cycle, and the signaling
+   pathways (checkpoints) that respond to chromosomal damage and prevent
+   cell cycle progression until that damage is repaired.
+
+
+   DNA damage checkpoints function throughout the cell cycle. Those
+   working in G1 phase to prevent the replication of damaged DNA are
+   almost invariably mutated or inactivated in cancers. These defects
+   contribute not only to the instability of tumor cell genomes, but can
+   also knock-out pro-apoptotic pathways, rendering tumors resistant to
+   treatment. Those functioning in G2 phase to prevent commitment to
+   mitosis are, however, virtually always intact and appear to be required
+   for the viability of tumor cells that lack G1 checkpoints. Our research
+   is geared to dissect the molecular and cell biology of G2 checkpoints,
+   and aims to use this knowledge in the design and testing of targeted
+   anti-cancer therapies. Taking genetic and genomic approaches, we
+   utilize fission yeast as a gene and pathway discovery tool, and then
+   apply this information to studies in human cells. We are currently
+   focusing our efforts into: (1) the regulation and function of a
+   checkpoint effector protein kinase, Chk1, informing its suitability as
+   a target in anti-cancer therapy; and (2) the initiating events that
+   modify lesions in DNA into structures that signal the checkpoint and
+   can be repaired.
+
+
+   2. We are investigating how determinants of chromosome structure
+   regulate chromosome segregation and DNA repair, with an emphasis on
+   events that occur during DNA replication.
+
+
+   Chromosomes are highly dynamic structures. They undergo massive
+   reorganization to enable DNA replication and chromosome segregation to
+   occur. This is under the control of the DNA topoisomerases, and three
+   related and interacting Structural Maintenance of Chromosomes (SMC)
+   complexes known as cohesin, condensin and the Smc5/6 complex. Defects
+   in the processes controlled by these enzymes are a potent inducer of
+   chromosome segregation defects leading to changes in chromosome number
+   (aneuploidy). Their function during DNA replication appears to be
+   particularly important, where they control recombination to ensure a
+   complete round of replication by overcoming obstacles that block
+   polymerases, which is then followed by chromosome reorganization in
+   preparation for mitosis.  With the importance of replication fidelity,
+   cells have back-up mechanisms controlled by a multi-BRCT domain protein
+   (Brc1/PTIP) and the post-replication repair (PRR) machinery. We are
+   focusing our efforts to understanding how these various genome
+   integrity determinants are integrated in time and space to ensure
+   accurate replication and division of the genome.
+
+
+   Caparelli ML, O'Connell MJ. Regulatory motifs in Chk1. Cell Cycle 2013;
+   12: 916-922.
+
+   Kuntz K, O'Connell MJ. Initiation of DNA damage responses through
+   XPG-related nucleases. The EMBO journal 2013; 32: 290-302.
+
+   Bass K, Murray JM, O'Connell MJ. Brc1-dependent recovery from
+   replication stress. Journal of Cell Science 2012; 125: 2753-2764.
+
+   Wang Y, Kallgren SP, Reddy BD, Kuntz K, López-Maury L, Thompson J,
+   Watt S, Ma C, Hou H, Shi Y, Yates JR, Bähler J, O'Connell MJ, Jia S.
+   Histone H3 lysine 14 acetylation is required for activation of a DNA
+   damage checkpoint in fission yeast. The Journal of biological chemistry
+   2012 Feb; 287(6).
+
+   Tapia-Alveal C, O'Connell MJ. Nse1-dependent recruitment of Smc5/6 to
+   lesion-containing loci contributes to the repair defects of mutant
+   complexes. Molecular biology of the cell 2011 Dec; 22(23).
+
+   Tapia-Alveal C, O'Connell MJ. Methods for studying checkpoint kinases -
+   Chk1. Methods in molecular biology (Clifton, N.J.) 2011; 782.
+
+   Tapia-Alveal C, O'Connell MJ. Methods for studying the G2 DNA damage
+   checkpoint in mammalian cells. Methods in molecular biology (Clifton,
+   N.J.) 2011; 782.
+
+   Tapia-Alveal C, Outwin EA, Trempolec N, Dziadkowiec D, Murray JM,
+   O'Connell MJ. SMC complexes and topoisomerase II work together so that
+   sister chromatids can work apart. Cell cycle (Georgetown, Tex.) 2010
+   Jun; 9(11).
+
+   Calonge TM, Eshaghi M, Liu J, Ronai Z, O'Connell MJ.
+   Transformation/transcription domain-associated protein (TRRAP)-mediated
+   regulation of Wee1. Genetics 2010 May; 185(1).
+
+   Kuntz K, O'Connell MJ. The G(2) DNA damage checkpoint: could this
+   ancient regulator be the Achilles heel of cancer?. Cancer biology &
+   therapy 2009 Aug; 8(15).
+
+   Outwin EA, Irmisch A, Murray JM, O'Connell MJ. Smc5-Smc6-dependent
+   removal of cohesin from mitotic chromosomes. Molecular and cellular
+   biology 2009 Aug; 29(16).
+
+   Tapia-Alveal C, Calonge TM, O'Connell MJ. Regulation of chk1. Cell
+   division 2009; 4.
+
+   Irmisch A, Ampatzidou E, Mizuno K, O'Connell MJ, Murray JM. Smc5/6
+   maintains stalled replication forks in a recombination-competent
+   conformation. The EMBO journal 2009 Jan; 28(2).
+
+   Tapia-Alveal C, Lin SJ, Yeoh A, Jabado OJ, O'Connell MJ.
+   H2A.Z-dependent regulation of cohesin dynamics on chromosome arms.
+   Molecular and cellular biology 2014 Jun; 34(11).
+
+   Barnum KJ, O'Connell MJ. Cell cycle regulation by checkpoints. Methods
+   in molecular biology (Clifton, N.J.) 2014; 1170.
+
+   Tapia-Alveal C, Lin SJ, O'Connell MJ. Functional interplay between
+   cohesin and Smc5/6 complexes. Chromosoma 2014 Oct; 123(5).
+
+   Tapia-Alveal C, Lin SJ, Yeoh A, Jabado OJ, O'Connell MJ.
+   H2A.Z-dependent regulation of cohesin dynamics on chromosome arms.
+   Molecular and cellular biology 2014 Jun; 34(11).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. O'Connell did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 15-70F
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49738-5119TMP.html
+javascript:window.print()
+mailto:matthew.oconnell@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

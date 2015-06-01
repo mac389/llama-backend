@@ -1,0 +1,182 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   zhen-qiang.pan@mssm.edu
+
+   Ph.D., Columbia University
+
+   Ubiquitin Signaling in Cancer Biology
+
+    Post-doctoral Fellows: Kenneth Wu and Xinson Xu
+
+   Graduate Student: Jordan Kovacev
+
+
+   Covalent linkage of ubiquitin chains to cellular proteins leads to
+   targeted degradation by the 26S proteasome, thus promoting
+   unidirectional alteration of a divergent array of cellular processes
+   that include cell cycle progression, signal transduction, and tumor
+   suppression.
+
+
+   Central to the ubiquitination reaction are the recognition of a
+   substrate by an E3 ubiquitin protein ligase, which also functions to
+   recruit an E2 ubiquitin-conjugating enzyme that catalyzes the transfer
+   of ubiquitin to the target protein. Work from this laboratory has
+   helped uncovering a super-family of cullin-ROC1 RING based E3 ligases.
+   We are focusing on SCF, the prototype of cullin-RING E3, with specific
+   interest to understand the mechanisms by which it targets protein
+   substrates for polyubiquitination and eventual proteasomal
+   degradation.  Given its broad spectrum of protein targets, the SCF
+   pathway profoundly impacts a wide range of biological processes,
+   including cell growth and death, development, signal transduction,
+   transcriptional control, genomic integrity, and tumor suppression.
+
+
+   We have discovered an SCF-like E3 ligase complex containing CUL7, Fbw8,
+   Skp1 and ROC1. Dysregulation of the CUL7 E3 Ligase has been directly
+   linked to hereditary human diseases as cul7 germline mutations were
+   found in patients with autosomal-recessive 3-M and Yakuts short stature
+   syndromes, which are characterized by profound pre- and postnatal
+   growth retardation. Recently, we have identified insulin receptor
+   substrate 1, a critical mediator of insulin and insulin-like growth
+   factor-1 signaling, as the proteolytic target of the CUL7 E3 ligase,
+   suggesting a role for CUL7 as a novel growth regulator. We are
+   currently exploring pathomechanistic insights into CUL7-linked growth
+   retardation syndromes.
+
+   Sarikas A, Xu X, Field LJ, Pan ZQ. The Cullin7 E3 ubiquitin ligase: a
+   novel player in growth control. Cell Cycle 2008; 7(20): 3154-3161.
+
+   Xu X, Sarikas A, Dias-Santagata DC, Dolios G, Lafontant PJ, Tsai SC,
+   Zhu W, Nakajima H, Field LJ, Wang R, Pan ZQ. The CUL7 E3 ubiquitin
+   ligase targets insulin receptor substrate 1 for ubiquitin-dependent
+   degradation . Mol. Cell 2008; 30: 403-414.
+
+   Yamoah Y, Oashi T, Sarikas A, Gazdoiu S, Osman R, Pan ZQ.
+   Auto-inhibitory regulation of SCF-mediated ubiquitination by human
+   cullin 1's C-terminal tail. Proc.Natl. Acad. Sci USA 2005; 105(34):
+   12230-12235.
+
+   Gazdoiu S, Yamoah K, Wu K, Escalante CR, Tappin I, Bermudez V, Aggarwal
+   AK, Hurwitz J, Pan ZQ. Proximity-induced activation of human Cdc34
+   through heterologous dimerization. Proc. Natl. Acad. Sci 2005; 102:
+   15053-15058.
+
+   Pan ZQ, Kentsis A, Dias DC, Yamoah K, Wu K. Nedd8 on Cullin: Building
+   an Expressway to Protein Destruction. Oncogene 2004 3; 15(23):
+   1985-1997.
+
+   Wu K, Yamoah K, Dolios G, Gan-Erdene T, Tan P, Chen A, Lee CG, Wei N,
+   Wilkinson KD, Wang R, Pan ZQ. DEN1 is a dual function protease capable
+   of processing the C-terminus of Nedd8 deconjugating hyper-neddylated
+   CUL1. J Biol Chem 2003; 278: 28882-28891.
+
+   Dias DC, Dolios G, Wang R, Pan ZQ. CUL7: A DOC domain-containing cullin
+   selectively binds Skp1.Fbx29 to form an SCF-like complex. Proc Natl
+   Acad Sci USA 2002; 99(6): 16601-16606.
+
+   Wu K, Chen A, Pan ZQ. Conjugation of Nedd8 to CUL1 enhances the ability
+   of the ROC1-CUL1 complex to promote ubiquitin polymerization. J Biol
+   Chem 2000; 275: 32317-32324.
+
+   Tan P, Fuchs SY, Chen A, Wu K, Gomez C, Ronai Z, Pan ZQ. Recruitment of
+   a ROC1:Cullin1 ubiquitin ligase by Skp1 and HOS to catalyze the
+   ubiquitination of IkBa. Mol Cell 1999; 3: 527-533.
+
+   Wu K, Kovacev J, Pan ZQ. Priming and extending: a UbcH5/Cdc34 E2
+   handoff mechanism for polyubiquitination on a SCF substrate. Molecular
+   cell 2010 Mar; 37(6).
+
+   Wu K, Chen A, Pan ZQ. Conjugation of Nedd8 to CUL1 enhances the ability
+   of the ROC1-CUL1 complex to promote ubiquitin polymerization. The
+   Journal of biological chemistry 2000 Oct; 275(41).
+
+   Pan ZQ, Kentsis A, Dias DC, Yamoah K, Wu K. Nedd8 on cullin: building
+   an expressway to protein destruction. Oncogene 2004 Mar; 23(11).
+
+   Xu X, Sarikas A, Dias-Santagata DC, Dolios G, Lafontant PJ, Tsai SC,
+   Zhu W, Nakajima H, Nakajima HO, Field LJ, Wang R, Pan ZQ. The CUL7 E3
+   ubiquitin ligase targets insulin receptor substrate 1 for
+   ubiquitin-dependent degradation. Molecular cell 2008 May; 30(4).
+
+   Wu K, Yan H, Fang L, Wang X, Pfleger C, Jiang X, Huang L, Pan ZQ.
+   Mono-ubiquitination drives nuclear export of the human DCN1-like
+   protein hDCNL1. The Journal of biological chemistry 2011 Sep; 286(39).
+
+   Xu X, Keshwani M, Meyer K, Sarikas A, Taylor S, Pan ZQ. Identification
+   of the degradation determinants of insulin receptor substrate 1 for
+   signaling cullin-RING E3 ubiquitin ligase 7-mediated ubiquitination.
+   The Journal of biological chemistry 2012 Nov; 287(48).
+
+   Kovacev J, Wu K, Spratt DE, Chong RA, Lee C, Nayak J, Shaw GS, Pan ZQ.
+   A SnapShot of Ubiquitin Chain Elongation: LYSINE 48-TETRA-UBIQUITIN
+   SLOWS DOWN UBIQUITINATION. The Journal of biological chemistry 2014
+   Mar; 289(10).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Pan did not report having any of the following types of financial
+   relationships with industry during 2014 and/or 2015: consulting,
+   scientific advisory board, industry-sponsored lectures, service on
+   Board of Directors, participation on industry-sponsored committees,
+   equity ownership valued at greater than 5% of a publicly traded company
+   or any value in a privately held company. Please note that this
+   information may differ from information posted on corporate sites due
+   to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Annenberg Building Floor 15 Room 15-34A
+   1468 Madison Avenue
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 15 Room 15-34A
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49756-9302TMP.html
+javascript:window.print()
+mailto:zhen-qiang.pan@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,147 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   christoph.schaniel@mssm.edu
+
+   MS, University of Basel
+
+   Ph.D., Basel Institute for Immunology/University of Basel
+
+   Postdoctoral Fellow, Princeton University
+
+   Lee DF, Su J, Kim HS, Chang B, Papatsenko D, Zhao R, Yuan Y, Gingold J,
+   Xia W, Darr H, Mirzayans R, Hung MC, Schaniel C, Lemischka IR. Modeling
+   Familial Cancer with Induced Pluripotent Stem Cells. Cell 2015; 161(2):
+   240-254.
+
+   Chaurasia P, Gajzer DC, Schaniel C, D'Souza SL, Hoffman R. Epigenetic
+   Reprogramming Upregulates Pluripotency Genes in Cord Blood Stem Cells.
+   Journal of Clinical Investestigation 2014; 124(6): 2378-2395.
+
+   Qui J, Papatsenko D, Niu X, Schaniel C, Moore KA. Divisional history
+   and hematopoietic stem cell function during homeostasis. Stem Cell
+   Reports 2014; 2(4): 473-490.
+
+   Pereira CF, Chang B, Qiu J, Niu X, Papatsenko D, Hendry CE, Clark NR,
+   Nomura-Kitabayashi A, Kovacic JC, Ma'ayan A, Schaniel C, Lemischka IR,
+   Moore K. Induction of a Hemogenic Program in Mouse Fibroblasts. Cell
+   Stem Cell 2013; 13(2): 205-218.
+
+   Gaspar-Maia A, Qadeer ZA, Hasson D, Ratnakumar K, Adrian Leu N, Leroy
+   G, Liu S, Costanzi C, Valle-Garcia D, Schaniel C, Lemischka I, Garcia
+   B, Pehrson JR, Bernstein E. MacroH2A histone variants act as a barrier
+   upon reprogramming towards pluripotency. Nature Communications 2013; 4:
+   1565.
+
+   Fidalgo M, Faiola F, Pereira CF, Ding J, Saunders A, Gingold J,
+   Schaniel C, Lemischka IR, Silva JC, Wang J. Zfp281 Mediates Nanog
+   Autorepression through Recruits of the NuRD Repressor Complex and
+   Inhibits Somatic Cell Reprogramming. Proc. Nat. Acad. Sci. 2012; 109:
+   16202-16207.
+
+   Young W, D'Souza SL, Lemischka IR, Schaniel C. Patient-specific induced
+   pluripotent stem cells as a platform for disease modeling, drug
+   discovery and precision personalized medicine. The Journal of Stem Cell
+   Research & Therapy 2012; S10-010.
+
+   Lee DF, Su J, Ang YS, Carvajal-Vergara X, Mulero-Navarro S, Pereira CF,
+   Gingold J, Wang HL, Zhao R, Sevilla A, Darr H, Williamson AJ, Chang B,
+   Niu X, Aguilo F, Flores ER, Sher YP, Hung MC, Whetton AD, Gelb BD,
+   Moore KA, Snoeck HW, Ma'ayan A, Schaniel C, Lemischka IR. Regulation of
+   embryonic and induced pluripotency by Aurora kinase-p53 signaling. Cell
+   Stem Cell 2012; 11(2): 179-194.
+
+   Chang B, Lemischka IR, Schaniel C. MicroRNAs in development, stem cell
+   differentiation and regenerative medicine. In: Regulatory RNAs .
+   Springer; pp409-442.
+
+   Schaniel C, Sirabella D, Qiu J, Niu X, Lemischka IR, Moore KA.
+   Wnt-inhibitory factor 1 dysregulation of the bone marrow niche exhausts
+   hematopoietic stem cells. Blood 2011; 118(9): 2420-2429.
+
+   Ang YS, Tsai SY, Lee DF, Monk J, Su J, Ratnakumar K, Ding J, Ge Y, Darr
+   H, Chang B, Wang J, Rendl M, Bernstein E, Schaniel C, Lemischka IR.
+   Wdr5 mediates self-renewal and reprogramming via the embryonic stem
+   cell core transcriptional network. Cell 2011; 145(2): 183-197.
+
+   Xu H, Schaniel C, Lemischka IR, Ma'ayan A. Toward a complete in silico,
+   multi-layered embryonic stem cell regulatory network [review]. Wiley
+   Interdisciplinary Reviews. Systems Biology and Medicine 2010; 2(6):
+   708-733.
+
+   Carvajal-Vergara X, Sevilla A, D'Souza SL, Ang YS, Schaniel C, Lee D,
+   Yang L, Kaplan AD, Adler ED, Rozov R, Ge Y, Cohen N, Edelmann LJ, Chang
+   B, Waghray A, Su J, Pardo S, Lichtenbelt KD, Tartaglia M, Gelb BD,
+   Lemischka IR. Patient-specific induced pluripotent stem-cell-derived
+   models of LEOPARD syndrome. Nature 2010; 465(7299): 808-812.
+
+   Schaniel C, Moore KA. Genetic models to study quiescent stem cells and
+   their niches. Ann N Y Acad Sci 2009; 1176: 26-35.
+
+   Schaniel C, Ang YS, Ratnakumar K, Cormier C, James T, Bernstein E,
+   Lemischka IR, Paddison PJ. Smarcc1/Baf155 couples self-renewal gene
+   repression with changes in chromatin structure in mouse embryonic stem
+   cells. Stem Cells 2009; 27(12): 2979-2991.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Schaniel did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 13 Room 70F
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49811-6566TMP.html
+javascript:window.print()
+mailto:christoph.schaniel@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,139 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   paul.kenny@mssm.edu
+
+   BA, Trinity College Dublin
+
+   PhD, University of London
+
+   Paul J. Kenny, PhD, is Ward-Coleman Professor and Chair of the Dorothy
+   H. and Lewis Rosenstiel Department of Pharmacology and Systems
+   Therapeutics. Dr. Kenny also serves as the Director of the Experimental
+   Therapeutics Institute. His multidisciplinary research involves the
+   study of behavioral paradigms, physiological analyses, and the
+   molecular underpinnings of neurobehavioral disorders. Dr. Kenny is
+   actively investigating the brains of rodents to uncover new signaling
+   cascades that may play a role in addiction-like behaviors.
+
+   2012 -
+   Mathilde Solowey Lecture Award in the Neurosciences
+   Foundation for Advanced Education in the Sciences
+
+   2010 -
+   Jacob P. Waletzky Memorial Award
+   Society for Neuroscience
+
+   Heyer MP, Kenny PJ. MicroRNA-mediated repression combats depression.
+   Neuron 2014 Jul; 83(2).
+
+   Kenny PJ. The food addiction. Scientific American 2013 Sep; 309(3).
+
+   Kenny PJ, Voren G, Johnson PM. Dopamine D2 receptors and
+   striatopallidal transmission in addiction and obesity. Current Opinion
+   in Neurobiology 2013 Aug; 23(4).
+
+   Bali P, Kenny PJ. MicroRNAs and Drug Addiction. Frontiers in Genetics
+   2013 May; 4(43).
+
+   Hope BT, Skinner MK, Kenny PJ, Akbarian S. Exploring the epigenetics of
+   cocaine resistance. Nature Medicine 2013 Feb; 19(2).
+
+   Heyer MP, Pani AK, Smeyne RJ, Kenny PJ, Feng G. Normal midbrain
+   dopaminergic neuron development and function in miR-133b mutant mice.
+   Journal of Neuroscience 2012 Aug; 32(32).
+
+   Jiang R, Song X, Bali P, Smith A, Bayona CR, Lin L, Cameron MD,
+   McDonald PH, Kenny PJ, Kamenecka TM. Disubstituted piperidines as
+   potent orexin (hypocretin) receptor antagonists. Bioorganic and
+   Medicinal Chemistry Letters 2012 Jun; 22(12).
+
+   Im HI, Kenny PJ. MicroRNAs in neuronal function and dysfunction. Trends
+   in Neurosciences 2012 May; 35(5).
+
+   Bali P, Im HI, Kenny PJ. Methylation, memory and addiction. Epigenetics
+   2011 Jun; 6(6).
+
+   Fowler CD, Lu Q, Johnson PM, Marks MJ, Kenny PJ. Habenular α5
+   nicotinic receptor subunit signalling controls nicotine intake. Nature
+   2011 Mar; 471(7340).
+
+   Kenny PJ. Reward mechanisms in obesity: new insights and future
+   directions. Neuron 2011 Feb; 69(4).
+
+   Im HI, Hollander JA, Bali P, Kenny PJ. MeCP2 controls BDNF expression
+   and cocaine intake through homeostatic interactions with microRNA-212.
+   Nature Neuroscience 2010 Sep; 13(9).
+
+   Hollander JA, Im HI, Amelio AL, Kocerha J, Bali P, Lu Q, Willoughby D,
+   Wahlestedt C, Conkright MD, Kenny PJ. Striatal microRNA controls
+   cocaine intake through CREB signalling. Nature 2010 Jul; 466(7303).
+
+   Johnson PM, Kenny PJ. Dopamine D2 receptors in addiction-like reward
+   dysfunction and compulsive eating in obese rats. Nature Neuroscience
+   2010 May; 13(5).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr. Kenny
+   during 2014 and/or 2015. Please note that this information may differ
+   from information posted on corporate sites due to timing or
+   classification differences.
+
+   Equity (Stock or stock options valued at greater than 5% ownership of a
+   publicly traded company or equity of any value in a privately held
+   company)
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Hess CSM Building Floor 9 Room 117
+   1470 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49653-5972TMP.html
+javascript:window.print()
+mailto:paul.kenny@mssm.edu
+http://icahn.mssm.edu/departments-and-institutes/pharmacology-and-systems-therapeutics
+http://icahn.mssm.edu/research/institutes/experimental-therapeutics-institute
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

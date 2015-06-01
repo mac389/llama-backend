@@ -1,0 +1,138 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   paula.croxson@mssm.edu
+
+   Croxson PL, Walton ME, Boorman ED, Rushworth MF, Bannerman DM.
+   Unilateral medial frontal cortex lesions cause a cognitive
+   decision-making deficit in rats. The European journal of neuroscience
+   2014 Oct;.
+
+   Baxter MG, Croxson PL. Behavioral control by the orbital prefrontal
+   cortex: reversal of fortune. Nature neuroscience 2013 Aug; 16(8).
+
+   O'Reilly JX, Croxson PL, Jbabdi S, Sallet J, Noonan MP, Mars RB,
+   Browning PG, Wilson CR, Mitchell AS, Miller KL, Rushworth MF, Baxter
+   MG. Causal effect of disconnection lesions on interhemispheric
+   functional connectivity in rhesus monkeys. Proceedings of the National
+   Academy of Sciences of the United States of America 2013 Aug; 110(34).
+
+   Baxter MG, Croxson PL. Facing the role of the amygdala in emotional
+   information processing. Proceedings of the National Academy of Sciences
+   of the United States of America 2012 Dec; 109(52).
+
+   Croxson PL, Browning PG, Gaffan D, Baxter MG. Acetylcholine facilitates
+   recovery of episodic memory after brain damage. The Journal of
+   neuroscience : the official journal of the Society for Neuroscience
+   2012 Oct; 32(40).
+
+   Croxson PL, Kyriazis DA, Baxter MG. Cholinergic modulation of a
+   specific memory function of prefrontal cortex. Nature neuroscience 2011
+   Dec; 14(12).
+
+   Sallet J, Mars RB, Noonan MP, Andersson JL, O'Reilly JX, Jbabdi S,
+   Croxson PL, Jenkinson M, Miller KL, Rushworth MF. Social network size
+   affects neural circuits in macaques. Science (New York, N.Y.) 2011 Nov;
+   334(6056).
+
+   Mars RB, Jbabdi S, Sallet J, O'Reilly JX, Croxson PL, Olivier E, Noonan
+   MP, Bergmann C, Mitchell AS, Baxter MG, Behrens TE, Johansen-Berg H,
+   Tomassini V, Miller KL, Rushworth MF. Diffusion-weighted imaging
+   tractography-based parcellation of the human parietal cortex and
+   comparison with human and macaque resting-state functional
+   connectivity. The Journal of neuroscience : the official journal of the
+   Society for Neuroscience 2011 Mar; 31(11).
+
+   Browning PG, Gaffan D, Croxson PL, Baxter MG. Severe scene learning
+   impairment, but intact recognition memory, after cholinergic depletion
+   of inferotemporal cortex followed by fornix transection. Cerebral
+   cortex (New York, N.Y. : 1991) 2010 Feb; 20(2).
+
+   Walton ME, Groves J, Jennings KA, Croxson PL, Sharp T, Rushworth MF,
+   Bannerman DM. Comparing the role of the anterior cingulate cortex and
+   6-hydroxydopamine nucleus accumbens lesions on operant effort-based
+   decision making. The European journal of neuroscience 2009 Apr; 29(8).
+
+   Croxson PL, Walton ME, O'Reilly JX, Behrens TE, Rushworth MF.
+   Effort-based cost-benefit valuation and the human brain. The Journal of
+   neuroscience : the official journal of the Society for Neuroscience
+   2009 Apr; 29(14).
+
+   Walton ME, Croxson PL, Behrens TE, Kennerley SW, Rushworth MF. Adaptive
+   decision making and value in the anterior cingulate cortex. NeuroImage
+   2007; 36 Suppl 2.
+
+   Croxson PL, Johansen-Berg H, Behrens TE, Robson MD, Pinsk MA, Gross CG,
+   Richter W, Richter MC, Kastner S, Rushworth MF. Quantitative
+   investigation of connections of the prefrontal cortex in the human and
+   macaque using probabilistic diffusion tractography. The Journal of
+   neuroscience : the official journal of the Society for Neuroscience
+   2005 Sep; 25(39).
+
+   Walton ME, Croxson PL, Rushworth MF, Bannerman DM. The mesocortical
+   dopamine projection to anterior cingulate cortex plays no role in
+   guiding effort-related decisions. Behavioral neuroscience 2005 Feb;
+   119(1).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Croxson did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Hess CSM Building Floor 10 Room 10-113
+   1470 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49522-9859TMP.html
+javascript:window.print()
+mailto:paula.croxson@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

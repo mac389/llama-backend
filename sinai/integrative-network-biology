@@ -1,0 +1,36 @@
+    [BUTTON Input] (not implemented)________        [BUTTON Input] (not
+   implemented)______         [BUTTON Input] (not
+   implemented)____________         [BUTTON Input] (not
+   implemented)______________    [BUTTON Input] (not
+   implemented)________     [BUTTON Input] (not implemented)_____________
+
+   The explosion of large-scale, high-throughput technologies in the
+   biological sciences demands a comprehensive view of biological
+   systems.   Dr. Zhu's research focuses on:
+
+   1.     Method development in integrating diverse high-throughput data
+   into probabilistic causal network models.  There are multiple risk
+   factors as well as their interactions contributing to complex human
+   diseases, such genetic background, infection, environmental states,
+   life-style choices, and etc.   It is critical to integrate all these
+   factors into comprehensive disease networks which provide a context to
+   understand mechanism of diseases and to study effects of genetic
+   perturbations, drug perturbations, and their interactions.  Dr. Zhu's
+   group has developed many methods for integrating genetic and genomic
+   data into Bayesian networks:
+
+   2.     Method development in comparing multiple networks.  There are
+   multiple risk/perturbation factors driving a biological system from a
+   healthy state to a disease state.  In response, there are hundreds to
+   thousands genes changed at transcription or protein levels.  Dr. Zhu's
+   works showed that instead of monitoring changes in a few genes, it is
+   more robust to monitor changes of network states or structures when
+   studying complex diseases:
+
+   3.     Method development in analyzing biological networks.  If
+   comprehensive biological networks are available, how to convert network
+   knowledge into actionable items?  For example in drug discovery and
+   development, we investigated which nodes and node combinations in the
+   networks can generate largest beneficial effects when perturbed.  In
+   biomarker research, we examined which parts of networks can robustly
+   connect to drug response, disease progression and survivals.

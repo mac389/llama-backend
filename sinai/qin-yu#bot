@@ -1,0 +1,156 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   qin.yu@mssm.edu
+
+   MS, Shanghai Institute of Cell Biology, Academia Sinica
+
+   Ph.D, Tufts University
+
+   Postdoc, Massachusetts General Hospital-East, Harvard Medical School
+
+   Tumor microenvironment and therapeutic targeting of tumor
+   microenvironment
+
+   Brunckhorst MK, Xu Y, Lu R, Yu Q. Angiopoietins promote ovarian cancer
+   progression by establishing a procancer microenvironment. The American
+   journal of pathology 2014 Aug; 184(8).
+
+   Gong Y, Scott E, Lu R, Xu Y, Oh WK, Yu Q. TIMP-1 promotes accumulation
+   of cancer associated fibroblasts and cancer progression. PloS one 2013;
+   8(10).
+
+   Murray LB, Lau YK, Yu Q. Merlin is a negative regulator of human
+   melanoma growth. PloS one 2012; 7(8).
+
+   Brunckhorst MK, Lerner D, Wang S, Yu Q. AT-406, an orally active
+   antagonist of multiple inhibitor of apoptosis proteins, inhibits
+   progression of human ovarian cancer. Cancer biology & therapy 2012 Jul;
+   13(9).
+
+   Xu Y, Stamenkovic I, Yu Q. CD44 attenuates activation of the Hippo
+   signaling pathway and is a prime therapeutic target for glioblastoma.
+   Cancer Res 2010 March 15; 70: 2455-2464.
+
+   Stamenkovic I, Yu Q. Merlin, a ‚Magic‚ Linker Between the Extracellular
+   Cues and Intracellular Signaling Pathways that Regulate Cell Motility,
+   Proliferation, and Survival. Curr Protein Pept Sci. 2010; 11(6):
+   471-484.
+
+   Brunckhorst MK, Wang H, Lu R, Yu Q. Angiopoietin-4 promotes
+   glioblastoma progression by enhancing tumor cell viability and
+   angiogenesis. Cancer research 2010 Sep; 70(18).
+
+   Stamenkovic I, Yu Q. Shedding Light on Proteolytic Cleavage of CD44:
+   the Responsible Sheddase and Functional Significance of Shedding. J
+   Invest Dermatol 2009; 129(6): 1321-1324.
+
+   Lau YK, Murray LB, Houshmandi SS, Xu Y, Gutmann DH, Yu Q. Merlin is a
+   potent inhibitor of glioma growth. Cancer Res 2008 Jul 15; 68(14):
+   5733-5742.
+
+   Bai Y, Liu YJ, Wang H, Xu Y, Stamenkovic I, Yu Q. Inhibition of the
+   hyaluronan-CD44 interaction by merlin contributes to the
+   tumor-suppressor activity of merlin. Oncogene 2007 Feb 8; 26(6):
+   836-850.
+
+   Liu YJ, Xu Y, Yu Q. Full-length ADAMTS-1 and the ADAMTS-1 fragments
+   display pro- and antimetastatic activity, respectively. Oncogene 2006
+   Apr 20; 25(17): 2452-2467.
+
+   Yu Q. The dynamic roles of angiopoietins in tumor angiogenesis
+   [review]. Future Oncol 2005 Aug; 1(4): 475-484.
+
+   Xu Y, Liu YJ, Yu Q. Angiopoietin-3 inhibits pulmonary metastasis by
+   inhibiting tumor angiogenesis. Cancer Res 2004 Sep 1; 64(17):
+   6119-6126.
+
+   Xu Y, Liu YJ, Yu Q. Angiopoietin-3 is tethered on the cell surface via
+   heparan sulfate proteoglycans. J Biol Chem 2004 Sep 24; 279(39):
+   41179-41188.
+
+   Yu Q, Stamenkovic I. Transforming growth factor-beta facilitates breast
+   carcinoma metastasis by promoting tumor cell survival. Clin Exp
+   Metastasis 2004; 21(3): 235-242.
+
+   Xu Y, Yu Q. E-cadherin negatively regulates CD44-hyaluronan interaction
+   and CD44-mediated tumor invasion and branching morphogenesis. J Biol
+   Chem 2003 Mar 7; 278(10): 8661-8668.
+
+   Yu Q, Stamenkovic I. Angiopoietin-2 is implicated in the regulation of
+   tumor angiogenesis. The American journal of pathology 2001 Feb; 158(2).
+
+   Yu Q, Stamenkovic I. Cell surface-localized matrix metalloproteinase-9
+   proteolytically activates TGF-beta and promotes tumor invasion and
+   angiogenesis. Genes & development 2000 Jan; 14(2).
+
+   Yu Q, Stamenkovic I. Localization of matrix metalloproteinase 9 to the
+   cell surface provides a mechanism for CD44-mediated tumor invasion.
+   Genes & development 1999 Jan; 13(1).
+
+   Yu Q, Toole BP, Stamenkovic I. Induction of apoptosis of metastatic
+   mammary carcinoma cells in vivo by disruption of tumor cell surface
+   CD44 function. The Journal of experimental medicine 1997 Dec; 186(12).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Yu did not report having any of the following types of financial
+   relationships with industry during 2014 and/or 2015: consulting,
+   scientific advisory board, industry-sponsored lectures, service on
+   Board of Directors, participation on industry-sponsored committees,
+   equity ownership valued at greater than 5% of a publicly traded company
+   or any value in a privately held company. Please note that this
+   information may differ from information posted on corporate sites due
+   to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 16 Room 16-20A
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49901-3048TMP.html
+javascript:window.print()
+mailto:qin.yu@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

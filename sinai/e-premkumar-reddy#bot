@@ -1,0 +1,185 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   premkumar.reddy@mssm.edu
+
+   ep.reddy@mssm.edu
+
+   Ph.D., Regional Research Laboratories/Osmania University
+
+   University of California, School of Medicine
+
+   National Cancer Institute
+
+   Dr. E. Premkumar Reddy obtained his Ph.D. in 1971 and carried out his
+   post-doctoral training at the UCLA School of Medicine from 1972-1974
+   and later at the National Cancer Institute from 1974-75.   He worked at
+   the National Cancer Institute first as an independent investigator and
+   later as a section chief between 1975 and 1984.  In 1984, he moved to
+   Hoffmann La Roche and held appointments at Hoffmann La Roche and the
+   Roche Institute of Molecular Biology as a Full Member.  In 1986, he
+   joined the Wistar Institute as a Professor and Deputy Director.  From
+   1992 to 2010, he served as the Director of the Fels Institute for
+   Cancer Research and Molecular Biology, Temple University School of
+   Medicine, Philadelphia. He joined the Mount Sinai School of Medicine in
+   March of 2010 as a Professor in the Departments of Oncological Sciences
+   and the Department of Structural and Chemical Biology and as the
+   Director of Experimental Cancer Therapeutics.
+
+   While working at the National Cancer Institute, he made a number of
+   seminal discoveries that provided a clear understanding of the
+   molecular basis of cancer.  He cloned and sequenced a number of viral
+   oncogenes which included abl, ras, fgr, mos, myb, myc and sis oncogenes
+   and their cellular homologues which pinpointed the precise changes that
+   cellular proto-oncogenes undergo to produce cancer-causing viral
+   oncogenes.   He extended this work to human cancers and was responsible
+   for the seminal discovery that point mutations in the cellular ras
+   genes result in their oncogenic activation.  His work also showed the
+   mechanisms associated with the activation of Abl and Myb oncogenes,
+   which are associated with the development of human myelogenous
+   leukemias. His recent work on cell cycle regulator, Cdk4 has shown that
+   this gene is very critical for the development of ErbB2 and ras
+   oncogene-induced tumors and inhibition of expression of Cdk4 causes
+   ablation of breast cancers caused by ErbB2 and Ras oncogenes.
+   Dr. Reddy has pioneered the development of small molecule inhibitors
+   targeted against oncogenes and cell cycle regulators for cancer
+   therapy.  One of the drugs developed by Dr. Reddy, ON01910 is currently
+   in Phase III clinical trials and has shown profound clinical activity
+   in MDS (Myelodysplastic Syndrome) patients as a single agent.  In
+   combination with Oxaliplatin and Gemcitabine, ON01910 was found to have
+   remarkable efficacy in reducing the tumor burden of several metastatic
+   cancers including breast, ovarian and pancreatic cancers.   In addition
+   to ON01910, Dr. Reddy has developed six different cancer drugs, two of
+   which (ON013100, and ON01210) have entered clinical trials and the
+   other three are expected to enter clinical trials in the next one
+   year.  Two of these drugs, a small molecule inhibitor of Plk2,
+   ON1231320 and a second compounds ON123300 which is a dual inhibitor of
+   Cdk4 and AKT pathways are currently undergoing pre-clinical evaluation.
+
+   Dr. Reddy  founded the cancer journal Oncogene in 1986 and served as
+   its Editor from 1986 to 2009.  In 2010, he founded a second cancer
+   journal, Genes & Cancer for which he currently serves as the
+   Editor-in-Chief.
+
+   1993 - 2010
+   Laura H. Carnell Professor of Medicine
+   Temple University
+
+   1993 -
+   Scientific Achievement Award
+   American Cancer Society
+
+   Research Interests
+
+   Reddy EP, Dunn CY, Aaronson SA. Different lymphoid cell targets for
+   transformation by replication competent Moloney and Rauscher leukemia
+   viruses. . Cell 1980; 19: 663-669.
+
+   Reddy EP, Reynolds RK, Santos E, Barabcid M. A point mutation is
+   responsible for the activation of T24 human bladder carcinoma
+   oncogene.. Nature 1982; 300: 149-152.
+
+   Toscani A, Mattus RV, Simpkins H, Litvin J, Orth J, Hatton KS, Reddy
+   EP. Arrest of spermatogenesis and defective breast development in mice
+   lacking A-myb. Nature 1997; 386: 713-717.
+
+   Rane SG, Dubus P, Mettus RV, Galbreath EJ, Boden G, Reddy EP, Barbacid
+   M. Loss of CDK-4 expression causes infertility and insulin deficient
+   diabetes while its activation results in pancreatic islet hyperplasia.
+   Nature . Nature Genetics 1997; 22: 44-52.
+
+   Lieu YK, Kumar A, Pajerowski AG, Rogers TJ, Reddy EP. Requirement of
+   c-myb in T cell development and in mature T cell function. Proc Natl
+   Acad Sci U S A 2004; 101: 14853-15858.
+
+   Lieu YK, Reddy EP. Conditional c-myb knockout in adult hematopoietic
+   stem cells leads to loss of self-renewal due to impaired proliferation
+   and accelerated differentiation.. Proc Natl Acad Sci U S A 2009; 106:
+   21689-21694.
+
+   Xu H, Dhanasekaran DN, Lee CM, Reddy EP. Regulation of neurite
+   outgrowth by interactions between the scaffolding protein,
+   JNK-associated leucine zipper protein, and neuronal growth-associated
+   protein superior cervical ganglia clone 10. Journal of Biological
+   Chemistry 2010; 285: 3548-3553.
+
+   Reddy HK, Mettus RV, Rane SG, Gra√±a X, Litvin J, Reddy EP.
+   Cyclin-dependent kinase 4 expression is essential for neu-induced
+   breast tumorigenesis.. Cancer Research 2005; 65: 10174-10178.
+
+   Reddy HK, Gra√±a X, Dhanasekaran DN, Litvin JJ, Reddy EP. Requirement
+   of Cdk4 for v-Ha-ras‚Induced Breast Tumorigenesis and Activation of the
+   v-ras‚Induced Senescence Program by the R24C Mutation. . Genes & Cancer
+   2010; 1: 69-80.
+
+   Reddy MV, Mallireddigari MR, Cosenza SC, Pallela VR, Iqbal NM, Robell
+   KA, Kang AD, Reddy EP. Design, synthesis, and biological evaluation of
+   (e)-styrylbenzylsulfones as novel anticancer agents. . Journal of
+   Medicinal Chemistry 2008; 51: 86-100.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr. Reddy
+   during 2014 and/or 2015. Please note that this information may differ
+   from information posted on corporate sites due to timing or
+   classification differences.
+
+   Consulting:
+
+   Service on Board of Directors: Service in a fiduciary capacity, such as
+   an officer or director, for the following companies:
+
+   Royalty Payments:
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 15-20C
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49552-8882TMP.html
+javascript:window.print()
+mailto:premkumar.reddy@mssm.edu
+mailto:ep.reddy@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

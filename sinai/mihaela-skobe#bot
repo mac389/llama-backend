@@ -1,0 +1,281 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   mihaela.skobe@mssm.edu
+
+   B.S., University of Zagreb
+
+   Ph.D., University of Heidelberg
+
+   Harvard Medical School/Massachussetts General Hospital
+
+   The main research interest of my laboratory is in understanding the
+   mechanisms of cancer metastasis via the lymphatic system and the
+   function of lymphatic vessels in the regulation of immune response.
+
+   Metastasis is the main cause of treatment failure and death for cancer
+   patients. The first site to which cancer cells metastasize are lymph
+   nodes, and the extent of lymph node involvement is a major criterion
+   for evaluating patient prognosis and the choice of therapy. Despite the
+   fact that the importance of the lymphatic system as a pathway for
+   cancer metastasis has been well recognized, research efforts over the
+   past decades have been focused primarily on understanding the
+   mechanisms of tumor spread via the blood vasculature. Thus, the
+   mechanisms of tumor spread via the lymphatic system remain poorly
+   understood. Aside from serving as a transport system for tumor cells,
+   the lymphatic system normally collects extravasated fluid,
+   macromolecules and leukocytes from tissues and returns them to the
+   blood circulation. By directing antigen-presenting cells, T-cells and
+   antigens from peripheral tissues into the lymph nodes, lymphatic
+   vessels play an important role in the initiation of immune response.
+   However, the mechanisms by which leukocytes are mobilized into the
+   lymphatic vessels are poorly understood, and in particular, the role of
+   lymphatic vessels in the process remains unknown.
+
+   Our long-term research efforts are dedicated towards elucidating the
+   molecular mechanisms which regulate lymphatic vessel growth (i.e.
+   lymphangiogenesis) and the function of lymphatic vessels in cancer and
+   in normal physiology. Current research includes investigations of the
+   mechanisms by which tumor cells interact with the lymphatic vasculature
+   during early steps of metastasis. We are investigating the role of role
+   of chemokines and cell adhesion molecules expressed by the lymphatic
+   endothelium in tumor invasion and metastasis, to gain insight into the
+   mechanisms which regulate tumor cell migration and entry into the
+   lymphatic vessels. We are also investigating the molecular mechanisms
+   of lymphangiogenesis. Our previous studies have demonstrated that the
+   induction of tumor lymphangiogenesis by the Vascular Endothelial Growth
+   Factor-C (VEGF-C) facilitates tumor metastases. The goals of our
+   current research activities are to better understand the mechanisms by
+   which VEGF-C promotes metastasis and to assess the potential of VEGF-C
+   and its receptors as targets for the anti-metastatic therapy. Our
+   efforts are also dedicated towards identification of novel
+   lymphangiogenic factors and markers of the lymphatic endothelium.
+   Finally, the lab is exploring the role of lymphatic vasculature in the
+   regulation of immune response, particularly its function in regulating
+   migration and activation of antigen-presenting cells. The ultimate goal
+   of these studies is to gain insight into the molecular mechanisms by
+   which lymphatic endothelial cells control physiological cell migration
+   and to examine whether tumor cells take advantage of these mechanisms
+   to gain access to the lymphatic vessels. The knowledge gained with the
+   above studies may provide a foundation for the development of new
+   therapeutic approaches to predict, arrest and treat cancer metastases.
+
+   Graduate Students
+   Simona Podgrabinska, Bryan Kloos
+
+   Postdoctoral Fellows
+   Suvendu Das, Xiaodong Zhang
+
+   Clinical Research Fellow
+   Konstantin Zakashansky
+
+   Research Associate
+   Jeremy Medalle
+
+   Serasinghe MN, Missert DJ, Asciolla JJ, Podgrabinska S, Wieder SY,
+   Izadmehr S, Belbin G, Skobe M, Chipuk JE. Anti-apoptotic BCL-2 proteins
+   govern cellular outcome following B-RAF(V600E) inhibition and can be
+   targeted to reduce resistance. Oncogene 2014 Mar; 0.
+
+   Podgrabinska S, Skobe M. Role of lymphatic vasculature in regional and
+   distant metastases. Microvascular research 2014 Sep; 95C.
+
+   Das S, Sarrou E, Podgrabinska S, Cassella M, Mungamuri SK, Feirt N,
+   Gordon R, Nagi CS, Wang Y, Entenberg D, Condeelis J, Skobe M. Tumor
+   cell entry into the lymph node is controlled by CCL1 chemokine
+   expressed by lymph node lymphatic sinuses. The Journal of experimental
+   medicine 2013 Jul; 210(8).
+
+   Das S, Ladell DS, Podgrabinska S, Ponomarev V, Nagi C, Fallon JT, Skobe
+   M. Vascular endothelial growth factor-C induces lymphangitic
+   carcinomatosis, an extremely aggressive form of lung metastases. Cancer
+   research 2010 Mar; 70(5).
+
+   Lederle W, Linde N, Heusel J, Bzyl J, Woenne EC, Zwick S, Skobe M,
+   Kiessling F, Fusenig NE, Mueller MM. Platelet-derived growth factor-B
+   normalizes micromorphology and vessel function in vascular endothelial
+   growth factor-A-induced squamous cell carcinomas. The American journal
+   of pathology 2010 Feb; 176(2).
+
+   Podgrabinska S, Kamalu O, Mayer L, Shimaoka M, Snoeck H, Randolph GJ,
+   Skobe M. Inflamed lymphatic endothelium suppresses dendritic cell
+   maturation and function via Mac-1/ICAM-1-dependent mechanism. Journal
+   of immunology (Baltimore, Md. : 1950) 2009 Aug; 183(3).
+
+   Shawber CJ, Funahashi Y, Francisco E, Vorontchikhina M, Kitamura Y,
+   Stowell SA, Borisenko V, Feirt N, Podgrabinska S, Shiraishi K,
+   Chawengsaksophak K, Rossant J, Accili D, Skobe M, Kitajewski J. Notch
+   alters VEGF responsiveness in human and murine endothelial cells by
+   direct regulation of VEGFR-3 expression. The Journal of clinical
+   investigation 2007 Nov; 117(11).
+
+   Furtado GC, Marinkovic T, Martin AP, Garin A, Hoch B, Hubner W, Chen
+   BK, Genden E, Skobe M, Lira SA. Lymphotoxin beta receptor signaling is
+   required for inflammatory lymphangiogenesis in the thyroid. Proceedings
+   of the National Academy of Sciences of the United States of America
+   2007 Mar; 104(12).
+
+   Lederle W, Stark HJ, Skobe M, Fusenig NE, Mueller MM. Platelet-derived
+   growth factor-BB controls epithelial tumor phenotype by differential
+   growth factor regulation in stromal cells. The American journal of
+   pathology 2006 Nov; 169(5).
+
+   Grossmann C, Podgrabinska S, Skobe M, Ganem D. Activation of NF-kappaB
+   by the latent vFLIP gene of Kaposi's sarcoma-associated herpesvirus is
+   required for the spindle shape of virus-infected endothelial cells and
+   contributes to their proinflammatory phenotype. Journal of virology
+   2006 Jul; 80(14).
+
+   Roberts N, Kloos B, Cassella M, Podgrabinska S, Persaud K, Wu Y,
+   Pytowski B, Skobe M. Inhibition of VEGFR-3 activation with the
+   antagonistic antibody more potently suppresses lymph node and distant
+   metastases than inactivation of VEGFR-2. Cancer research 2006 Mar;
+   66(5).
+
+   Angeli V, Ginhoux F, LlodrÃ  J, Quemeneur L, Frenette PS, Skobe M,
+   Jessberger R, Merad M, Randolph GJ. B cell-driven lymphangiogenesis in
+   inflamed lymph nodes enhances dendritic cell mobilization. Immunity
+   2006 Feb; 24(2).
+
+   Goldman J, Le TX, Skobe M, Swartz MA. Overexpression of VEGF-C causes
+   transient lymphatic hyperplasia but not increased lymphangiogenesis in
+   regenerating skin. Circulation research 2005 Jun; 96(11).
+
+   Pytowski B, Goldman J, Persaud K, Wu Y, Witte L, Hicklin DJ, Skobe M,
+   Boardman KC, Swartz MA. Complete and specific inhibition of adult
+   lymphatic regeneration by a novel VEGFR-3 neutralizing antibody.
+   Journal of the National Cancer Institute 2005 Jan; 97(1).
+
+   Sugaya M, Watanabe T, Yang A, Starost MF, Kobayashi H, Atkins AM,
+   Borris DL, Hanan EA, Schimel D, Bryant MA, Roberts N, Skobe M, Staskus
+   KA, Kaldis P, Blauvelt A. Lymphatic dysfunction in transgenic mice
+   expressing KSHV k-cyclin under the control of the VEGFR-3 promoter.
+   Blood 2005 Mar; 105(6).
+
+   Gruss CJ, Satyamoorthy K, Berking C, Lininger J, Nesbit M, Schaider H,
+   Liu ZJ, Oka M, Hsu MY, Shirakawa T, Li G, Bogenrieder T, Carmeliet P,
+   El-Deiry WS, Eck SL, Rao JS, Baker AH, Bennet JT, Crombleholme TM,
+   Velazquez O, Karmacharya J, Margolis DJ, Wilson JM, Detmar M, Skobe M,
+   Robbins PD, Buck C, Herlyn M. Stroma formation and angiogenesis by
+   overexpression of growth factors, cytokines, and proteolytic enzymes in
+   human skin grafted to SCID mice. The Journal of investigative
+   dermatology 2003 Apr; 120(4).
+
+   Podgrabinska S, Braun P, Velasco P, Kloos B, Pepper MS, Skobe M.
+   Molecular characterization of lymphatic endothelial cells. Proceedings
+   of the National Academy of Sciences of the United States of America
+   2002 Dec; 99(25).
+
+   Szuba A, Skobe M, Karkkainen MJ, Shin WS, Beynet DP, Rockson NB, Dakhil
+   N, Spilman S, Goris ML, Strauss HW, Quertermous T, Alitalo K, Rockson
+   SG. Therapeutic lymphangiogenesis with human recombinant VEGF-C. FASEB
+   journal : official publication of the Federation of American Societies
+   for Experimental Biology 2002 Dec; 16(14).
+
+   Hawighorst T, Skobe M, Streit M, Hong YK, Velasco P, Brown LF, Riccardi
+   L, Lange-Asschenfeldt B, Detmar M. Activation of the tie2 receptor by
+   angiopoietin-1 enhances tumor vessel maturation and impairs squamous
+   cell carcinoma growth. The American journal of pathology 2002 Apr;
+   160(4).
+
+   Skobe M, Hamberg LM, Hawighorst T, Schirner M, Wolf GL, Alitalo K,
+   Detmar M. Concurrent induction of lymphangiogenesis, angiogenesis, and
+   macrophage recruitment by vascular endothelial growth factor-C in
+   melanoma. The American journal of pathology 2001 Sep; 159(3).
+
+   Skobe M, Hawighorst T, Jackson DG, Prevo R, Janes L, Velasco P,
+   Riccardi L, Alitalo K, Claffey K, Detmar M. Induction of tumor
+   lymphangiogenesis by VEGF-C promotes breast cancer metastasis. Nature
+   medicine 2001 Feb; 7(2).
+
+   Detmar M, Velasco P, Richard L, Claffey KP, Streit M, Riccardi L, Skobe
+   M, Brown LF. Expression of vascular endothelial growth factor induces
+   an invasive phenotype in human squamous cell carcinomas. The American
+   journal of pathology 2000 Jan; 156(1).
+
+   Skobe M, Brown LF, Tognazzi K, Ganju RK, Dezube BJ, Alitalo K, Detmar
+   M. Vascular endothelial growth factor-C (VEGF-C) and its receptors KDR
+   and flt-4 are expressed in AIDS-associated Kaposi's sarcoma. The
+   Journal of investigative dermatology 1999 Dec; 113(6).
+
+   Streit M, Velasco P, Brown LF, Skobe M, Richard L, Riccardi L, Lawler
+   J, Detmar M. Overexpression of thrombospondin-1 decreases angiogenesis
+   and inhibits the growth of human cutaneous squamous cell carcinomas.
+   The American journal of pathology 1999 Aug; 155(2).
+
+   Bajou K, NoÃ«l A, Gerard RD, Masson V, Brunner N, Holst-Hansen C, Skobe
+   M, Fusenig NE, Carmeliet P, Collen D, Foidart JM. Absence of host
+   plasminogen activator inhibitor 1 prevents cancer invasion and
+   vascularization. Nature medicine 1998 Aug; 4(8).
+
+   Skobe M, Fusenig NE. Tumorigenic conversion of immortal human
+   keratinocytes through stromal cell activation. Proceedings of the
+   National Academy of Sciences of the United States of America 1998 Feb;
+   95(3).
+
+   Skobe M, Rockwell P, Goldstein N, Vosseler S, Fusenig NE. Halting
+   angiogenesis suppresses carcinoma cell invasion. Nature medicine 1997
+   Nov; 3(11).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Skobe did not report having any of the following types of financial
+   relationships with industry during 2014 and/or 2015: consulting,
+   scientific advisory board, industry-sponsored lectures, service on
+   Board of Directors, participation on industry-sponsored committees,
+   equity ownership valued at greater than 5% of a publicly traded company
+   or any value in a privately held company. Please note that this
+   information may differ from information posted on corporate sites due
+   to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 15-20F
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49841-8432TMP.html
+javascript:window.print()
+mailto:mihaela.skobe@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,177 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   emily.bernstein@mssm.edu
+
+   Ph.D., SUNY Stony Brook/Cold Spring Harbor Laboratory
+
+   The Rockefeller University
+
+   2012 - 2016
+   Irma T. Hirschl Charitable Trust Research Award
+
+   2010 - 2011
+   Tisch Cancer Institute Developmental Fund Award
+   Mount Sinai School of Medicine
+
+   2008 - 2012
+   New Scholar Award
+   Ellison Medical Foundation
+
+   2008 - 2009
+   Research Scholar Award
+   American Skin Association
+
+   2004 - 2006
+   National Science Foundation Postdoctoral Fellowship
+
+   Duarte LF, Young AR, Wang Z, Wu HA, Panda T, Kou Y, Kapoor A, Hasson D,
+   Mills NR, Ma'ayan A, Narita M, Bernstein E. Histone H3.3 and its
+   proteolytically processed form drive a cellular senescence programme.
+   Nature communications 2014; 5.
+
+   Wu HA, Balsbaugh JL, Chandler H, Georgilis A, Zullow H, Shabanowitz J,
+   Hunt DF, Gil J, Peters G, Bernstein E. Mitogen-activated protein kinase
+   signaling mediates phosphorylation of polycomb ortholog Cbx7. The
+   Journal of biological chemistry 2013 Dec; 288(51).
+
+   Vardabasso C, Hasson D, Ratnakumar K, Chung CY, Duarte LF, Bernstein E.
+   Histone variants: emerging players in cancer biology. Cellular and
+   molecular life sciences : CMLS 2013 May;.
+
+   Gaspar-Maia A, Qadeer ZA, Hasson D, Ratnakumar K, Adrian Leu N, Leroy
+   G, Liu S, Costanzi C, Valle-Garcia D, Schaniel C, Lemischka I, Garcia
+   B, Pehrson JR, Bernstein E. MacroH2A histone variants act as a barrier
+   upon reprogramming towards pluripotency. Nature communications 2013
+   Mar; 4.
+
+   Ratnakumar K, Duarte LF, Leroy G, Hasson D, Smeets D, Vardabasso C,
+   Bönisch C, Zeng T, Xiang B, Zhang DY, Li H, Wang X, Hake SB,
+   Schermelleh L, Garcia BA, Bernstein E. ATRX-mediated chromatin
+   association of histone variant macroH2A1 regulates α-globin
+   expression. Genes & development 2012; 26: 433-438.
+
+   Chicas A, Kapoor A, Wang X, Aksoy O, Evertts AG, Zhang MQ, Garcia BA,
+   Bernstein E, Lowe SW. H3K4 demethylation by Jarid1a and Jarid1b
+   contributes to retinoblastoma-mediated gene silencing during cellular
+   senescence. Proceedings of the National Academy of Sciences of the
+   United States of America 2012 Jun; 109(23).
+
+   O'Loghlen A, Muñoz-Cabello AM, Gaspar-Maia A, Wu HA, Banito A,
+   Kunowska N, Racek T, Pemberton HN, Beolchi P, Lavial F, Masui O,
+   Vermeulen M, Carroll T, Graumann J, Heard E, Dillon N, Azuara V,
+   Snijders AP, Peters G, Bernstein E, Gil J. MicroRNA regulation of Cbx7
+   mediates a switch of Polycomb orthologs during ESC differentiation.
+   Cell stem cell 2012 Jan; 10(1).
+
+   Kapoor A, Goldberg M, Cumberland L, Ratnakumar K, Segura M, Emanuel P,
+   Menendez S, Vardabasso C, LeRoy G, Vidal C, Polsky D, Osman I, Garcia
+   B, Hernando E, Bernstein E. The histone variant macroH2A suppresses
+   melanoma progression through regulation of CDK8. Nature 2010; 468:
+   1105-1109.
+
+   Bernstein E, Muratore-Schroeder TL, Diaz RL, Chow JC, Changolkar LN,
+   Shabanowitz J, Heard E, Pehrson JR, Hunt DF, Allis CD. A phosphorylated
+   subpopulation of the histone variant macroH2A1 is excluded from the
+   inactive X chromosome and enriched during mitosis. Proc Natl Acad Sci
+   USA 2008; 105: 1533-1538.
+
+   Whitcomb SJ, Basu A, Allis CD, Bernstein E. Polycomb Group Proteins: an
+   evolutionary perspective. Trends in Genetics 2007; 23: 494-502.
+
+   Ooi S, Qiu C, Bernstein E, Li K, Dia D, Yang Z, Erdjument-Bromage H,
+   Tempst P, Lin S, Allis CD, Cheng X, Bestor TH. DNMT3L connects
+   unmethylated lysine 4 of histone H3 to de novo methylation of DNA.
+   Nature 2007; 448: 714-717.
+
+   Goldberg AD, Allis CD, Bernstein E. Epigenetics: a landscape takes
+   shape.. Cell (essay) 2007; 128: 635-638.
+
+   Bernstein E, Duncan EM, Masui O, Gil J, Heard E, Allis CD. Mouse
+   Polycomb proteins bind differentially to methylated histone H3 and RNA
+   and are enriched in facultative heterochromatin. Molecular and Cellular
+   Biology 2006; 26: 2560-2569.
+
+   Bernstein E, Kim SY, Carmell MA, Murchison EP, Alcorn H, Li MZ, Mills
+   AA, Elledge SJ, Anderson KV, Hannon GJ. Dicer is essential for mouse
+   development. Nature Genetics 2003; 35: 5215-5217.
+
+   Paddison PJ, Caudy AA, Bernstein E, Hannon GJ, Conklin DS. Short
+   hairpin RNAs (shRNAs) induce sequence-specific silencing in mammalian
+   cells. Genes & Development 2002; 16: 948-958.
+
+   Ketting RF, Fischer SJ, Bernstein E, Sijen T, Hannon GJ, Plasterk RA.
+   Dicer functions in RNA interference and in synthesis of small RNA
+   involved in developmental timing in C. elegans. Genes & Development;
+   15: 2654-2695.
+
+   Bernstein E, Caudy AA, Hammond SM, Hannon GJ. Role for a bidentate
+   nuclease in the initiation step of RNA interference. Nature 2001; 409:
+   363-366.
+
+   Hammond SM, Bernstein E, Beach D, Hannon GJ. An RNA-directed nuclease
+   mediates post-transcriptional gene silencing in Drosophila cells.
+   Nature 2000; 404: 293-296.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Bernstein did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Hess CSM Building Floor 6th floor Room room 114
+   1470 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49562-3885TMP.html
+javascript:window.print()
+mailto:emily.bernstein@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

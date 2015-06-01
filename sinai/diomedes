@@ -1,0 +1,119 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   diomedes.logothetis@mssm.edu
+
+   Ph.D., Harvard University
+
+   Harvard Medical School
+
+   Vice Chairman, Department of Physiology and Biophysics
+
+   Laboratory Web Site: http://inka.mssm.edu/~diomedes (Research, Members,
+   Events)
+
+   In parallel studies, we have recently discovered that the large family
+   of potassium channel proteins, that include the G protein-sensitive
+   channels, function by direct interactions with phosphatidylinositol
+   phospholipids in the plasma membrane. G protein signaling is likely to
+   activate these channels conformationally by adjusting channel
+   phospholipid interactions. Moreover, signaling pathways that regulate
+   the level of these phospholipids critically affect the function of
+   these potassium channels. \r\n\r\n\r\n
+
+   Cardiac and neuronal cells of the central nervous system, where these
+   channels are prevalent, are isolated from heart and brain and are
+   studied electrophysiologically. Transgenic models with defects in G
+   proteins or the potassium channel are used to elucidate the functional
+   importance of these molecules in the particular tissue and the whole
+   organism. \r\n\r\n\r\n
+
+   The lab employs electrophysiological techniques to assay ion channel
+   function (patch clamp, two-electrode voltage clamp). Molecular
+   biological techniques are used to clone and perform structure-function
+   studies on these potassium channels. Expression of recombinant channels
+   in Xenopus oocytes and mammalian cell lines are used routinely towards
+   mechanistic studies. Cell isolation methods and tissue culture
+   techniques are also routinely used. Confocal microscopy is used to
+   localize the channel proteins in cells and tissues. \r\n\r\n
+
+   Sui JL, Petit-Jacques J, Logothetis D. Activation of the atrial KACh
+   channel by the betagamma subunits of G proteins or intracellular Na+
+   ions depends on the presence of phosphatidylinositol phosphates. Proc
+   Natl Acad Sci U S A 1998 Feb 3; 95(3): 1307-12.
+
+   Rohacs T, Chen J, Prestwich GD, Logothetis D. Distinct specificities of
+   inwardly rectifying K(+) channels for phosphoinositides. J Biol Chem
+   1999 Dec 17; 274(51): 36065-72.
+
+   Petit-Jacques J, Su JL, Logothetis D. Synergistic activation of G
+   protein-gated inwardly rectifying potassium channels by the betagamma
+   subunits of G proteins and Na(+) and Mg(2+) ions. J Gen Physiol 1999
+   Nov; 114(5): 673-84.
+
+   Pabon A, Chan K, Sui JL, Wu X, Logothetis D, Thornhill WB.
+   Glycosylation of GIRK1 at asn119 and ROMK1 at asn117 has different
+   consequences in potassium channel function. J Biol Chem 2000 Sep 29;
+   275(39): 30677-82.
+
+   Kobrinsky E, Mirshahi T, Zhang H, Jin T, Logothetis D.
+   Receptor-mediated hydrolysis of plasma membrane messenger PIP2 leads to
+   K+-current desensitization. Nat Cell Biol 2000 Aug; 2(8): 507-14.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr.Logothetis is not currently required to report Industry
+   relationships.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 16 Room 20B
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49678-8966TMP.html
+javascript:window.print()
+mailto:diomedes.logothetis@mssm.edu
+http://inka.mssm.edu/~diomedes
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

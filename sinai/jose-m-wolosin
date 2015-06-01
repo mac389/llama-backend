@@ -1,0 +1,113 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   jose.wolosin@mssm.edu
+
+   B.Sc., Hebrew University
+
+   M.Sc., Hebrew University
+
+   Ph.D., Hebrew University
+
+   1996 -
+   Research to Prevent Blindness Senior Scientific Investigators Award
+
+   1985 - 1990
+   Jules and Doris Stein Research to Prevent Blindness Professorship
+
+   1978 - 1979
+   Research Fellowship
+   Welcome Foundation of the United Kingdom
+
+   Recent Activities at Meetings and Congresses
+
+   Matic M, Petrov IN, Chen S, Wang C, Dimitrijevich SD, Wolosin J. Stem
+   cells of the corneal epithelium lack connexins and metabolite transfer
+   capacity. Differentiation 1997; 61: 251-260.
+
+   Wolosin J, Candia OA, Peterson-Yantorno K, Civan MM, Shi XP. Effect of
+   heptanol on the short circuit currents of cornea and ciliary body
+   demonstrates rate limiting role of heterocellular gap junctions in
+   active ciliary body transport. Exp Eye Res 1997; 64: 945-952.
+
+   Matic M, Stegman Z, Buku A, Wolosin J. Differentiation dependent
+   expression of a2,3msialyltransferase in rabbit corneal epithelium.
+   Invest Ophthalmol Vis Sci 1998; 39: 905-912.
+
+   Schutte M, Chen S, Wolosin J. Cx50, a gap junction protein of microglia
+   in retinal and visual pathways. Exp Eye Res 1998; 66: 605-613.
+
+   Wolosin J, Xiong X, Schutte M, Stegman Z, Tieng A. Stem Cells and
+   Differentiation Stages in the Limbo-Corneal Epithelium. Prog Retin Eye
+   Res 2001; 19: 223-255.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Wolosin did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Annenberg Building Floor 22 Room 76
+   1468 Madison Avenue
+   New York, NY 10029
+
+   Basic Sciences Building Floor 22 Room 81
+   10 East 101st Street
+   New York, NY 10029
+
+   1468 Madison Avenue
+   22nd Floor, Room 76
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49891-1130TMP.html
+javascript:window.print()
+mailto:jose.wolosin@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

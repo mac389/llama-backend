@@ -1,0 +1,198 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   steven.burakoff@mssm.edu
+
+   American Board of Internal Medicine
+
+   MD, Albany Medical College
+
+   New York Hospital-Cornell Medical Center
+
+   MA, Queens College
+
+   Rockefeller University
+
+   Harvard Medical School
+
+   MA (hon.), Harvard University
+
+   Internship, General Medicine
+   Cornell Medical Center
+
+   Residency, General Medicine
+   Cornell Medical Center
+
+   Fellowship, Immunology
+   Rockefeller University
+
+   Dr. Burakoff is the Director of The Tisch Cancer Institute at Mount
+   Sinai Medical Center; Lillian and Henry M. Stratton Professor of Cancer
+   Medicine;  Professor of Medicine, Hematology and Medical Oncology; and
+   Professor, Oncological Sciences.
+   Pushing Frontiers in Complex Cancer Care
+
+   2009 -
+   Lifetime Achievement Award
+   American Association of Immunologists
+
+   2006 -
+   Lynne Cohen Foundation Awardee
+
+   2003 -
+   Distinguished Alumnus 2003
+
+   2002 -
+   Theobold Smith Alumni Lecture
+   Albany Medical College
+
+   2001 -
+   ISI Highly Cited Researcher (1980-2000)
+
+   2000 -
+   Laura and Isaac Perlmutter Professor
+   New York University, School of Medicine
+
+   1998 -
+   Margaret M. Dyson Professor of Pediatrics
+   Harvard Medical School
+
+   1995 -
+   Ted Williams Senior Investigator
+   Dana-Farber Cancer Institute
+
+   1995 -
+   Association of American Physicians
+
+   1994 -
+   Horizons in Biomedical Research Lecture
+   Cleveland Clinic Foundation
+
+   1992 -
+   David A. Talmadge Lecture
+   Colorado Allergy Society
+
+   Jin YJ, Cai CY, Zhang X, Zhang HT, Burakoff SJ. Lysine144, a Ubiquitin
+   Attachment Site in HIV-1 Nef, Is Required for Nef-mediated CD4
+   Downregulation. J Immunol 2008;.
+
+   Sawasdikosol S, Pyarajan S, Alzabin S, Matejovic G, Burakoff SJ.
+   Prostaglandin E2 activates HPK1 activity via a PKA-dependent pathway. J
+   Biol Chem 2007 Nov; 282: 34693-34699.
+
+   Mathews JP, Taylor BS, Bader GD, Pyarajan S, Antoniotti M, Chinnaiyan
+   AM, Sander C, Burakoff SJ, Mishra B. From bytes to bedside: data
+   integration and computational biologyfor translational cancer research.
+   PLoS Comput Biol 2007 Feb 23; 3(2): e12.
+
+   Fragoso R, Pyarajan S, Irie HY, Burakoff SJ. CD8/Lck transgene is able
+   to drive thymocyte differentiation. J. Immun 2006 Feb 15; 176(4): 2669.
+
+   Jin JJ, Yi Cai C, Zhang X, Zhang HT, Hirst JA, Burakoff SJ. HIV
+   Nef-mediated CD4 down-regulation is adaptor protein complex 2
+   dependent. J. Immun 2006 Feb 15; 176(4): 2669.
+
+   Zambricki E, Shigeoka A, Kishimoto H, Sprent J, Burakoff S, Carpenter
+   C, Milford E, McKay D. Signaling T cell survival and death by IL-2 and
+   IL-15. Am J Transplant 2005; 11: 2623-2631.
+
+   Su MW, Pyarajan S, Chang JH, Yu CL, Jin YJ, Stierhof YD, Walden P,
+   Burakoff SJ. Fratricide of CD8+ cytotoxic T Lymphocytes is dependent on
+   cellular activation and perforin-mediated killing. Eur J Immunol 2004;
+   34: 2459-2470.
+
+   Frazer-Abel AA, Baksh S, Fosmire SP, Willis D, Pierce AM, Meylemans H,
+   Linthicum DS, Burakoff SJ, Coons T, Bellgrau D. Nicotine activates
+   NFATc2 and prevents cell cycle entry in T cells. J Pharmacol Exp Ther
+   2004; 311: 758-769.
+
+   Friedman JS, Alpdogan O, van den Brink MR, Liu C, Hurwiz D, Boyd A,
+   Kupper TS, Burakoff SJ. Increasing T cell age reduces effector activity
+   but preserves proliferative capacity in a murine allogeneic major
+   histocompatibility complex-mismatched bone marrow transplant model.
+   Biol Blood Marrow Transplant 2004; 10: 448-460.
+
+   Friedman JS, Lopez MF, Fleming MD, Rivera A, Martin FM, Welsh ML, Boyd
+   AS, Doctrow SR, Burakoff SJ. SOD2 Deficiently anemia: protein oxidation
+   and altered protein expression reveal targets of damage, stress
+   response and anti -oxidant responsiveness. Blood 2004; 104: 2565-2573.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr.
+   Burakoff during 2014 and/or 2015. Please note that this information may
+   differ from information posted on corporate sites due to timing or
+   classification differences.
+
+   Scientific Advisory Board:
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Mount Sinai Health System (MSHS) physicians - including those employed
+   by MSHS - do not always participate in the same health plans in which
+   MSHS hospitals or facilities participate.
+
+   Information regarding insurance participation and billing by this
+   physician may be found on this page or obtained by contacting this
+   provider directly.
+
+   Insurance plans that the Mount Sinai Health System hospitals or
+   facilities participate in can be found on the Mount Sinai Health System
+   website.
+
+   Edit profile in Sinai Central
+
+   One Gustave L. Levy Place
+   Box 1128
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 1st fl- Suite 100 Room L1-15C
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49482-3099TMP.html
+javascript:window.print()
+mailto:steven.burakoff@mssm.edu
+http://www.mountsinai.org/Research/Centers%20Laboratories%20and%20Programs/Cancer%20Institute
+http://www.mountsinai.org/static_files/MSMC/Files/NYT%20OpEds/Oncology%20ad_august2011_finalLR.pdf
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://www.mountsinaihealth.org/about-the-health-system/insurance-info
+http://sinaicentral.mssm.edu/

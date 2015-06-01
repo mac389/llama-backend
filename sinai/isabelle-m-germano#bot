@@ -1,0 +1,407 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   isabelle.germano@mountsinai.org
+
+   Neurological Surgery
+
+   MD, University of Turin Medical School
+
+   Residency, Surgery
+   Univ. of California, San Francisco
+
+   Residency, Neurosurgery
+   Univ. of California, San Francisco
+
+   Residency, Neurosurgery
+   Albert Einstein College of Medicine
+
+   Fellowship, Neurosurgery
+   University of Zurich
+
+   Fellowship, Neurosurgery
+   Montreal Neurological Institute
+
+   Dr. Germano joined the faculty at Mount Sinai in 1993. She is Director
+   of The Mount Sinai Comprehensive Brain Tumor Program, an advanced
+   multidisciplinary program based on computer-assisted image-guided
+   neurosurgery and brain mapping to accomplish minimally invasive
+   procedures and treatment of brain tumors, and is Co-director of the
+   Radiosurgery Program.
+   You can learn more about Dr. Germano by visiting the Neurosurgery
+   Tumors website.
+   Her specialty interests include Brain Tumors, Computer-Assisted
+   Image-Guided Neurosurgery, Epilepsy surgery and�  Radiosurgery. She is
+   Director of The Mount Sinai Medical Center Comprehensive Brain Tumor
+   Program, an advanced multidisciplinary program based on
+   computer-assisted image-guided neurosurgery and brain mapping to
+   accomplish minimally invasive procedures and treatment of brain tumors.
+   Dr. Germano is one of the pioneers of computer-assisted image-guided
+   neurosurgery. This sophisticated technology, including the Novalis
+   Shaped Beam Surgery, is used to perform minimally invasive surgery for
+   patients with brain tumors, epilepsy, Parkinson's disease and movement
+   disorders. Active in national neurosurgery organizations, she has
+   served as an executive committee member for the Congress of
+   Neurosurgery (CNS), as a Board of Directors' member for the American
+   Association of Neurological Surgeons, as an executive committee member
+   of the AANS/CNS Joint Section on Tumors, and as a scientific program
+   member for the AANS, CNS, and the American Epilepsy Society. For the
+   past five years she has directed a course, Advanced Techniques in
+   Image-Guided Brain and Spine Surgery, for neurosurgeons from around the
+   country.In the News
+
+   Dr. Germano and her work diagnosing and treating brain tumors were
+   recently profiled in The Daily News feature The Daily Check Up. View
+   the PDF.
+
+   2014 -
+   Leksell Radiosurgery Award
+   American Association of Neurological Surgeons
+
+   2013 -
+   Technology Development Award
+   Icahn School of Medicine at Mount Sinai
+
+   2012 - 2016
+   Neurological Devices Voting Member
+   Food and Drug Administration
+
+   2008 - 2013
+   Research grant: Brain tumors and gene transfer
+   National Institute of Health
+
+   2007 -
+   Brain Tumor Research
+   Goldhirsh Foundation
+
+   2006 -
+   Life Time Member
+   Who is Who Strathmore's
+
+   2006 -
+   New York State Certificats of Recognition, Dedication and Service to
+   the Italians Culture and Community
+   New York State
+
+   2005 -
+   Certificate of Excellence in Youth Education
+   New York City Department of Education and Mount Sinai School of
+   Medicine
+
+   2004 -
+   Neurosurgery Research Award
+   New York State Society
+
+   2002 - 2006
+   America's Top Cancer Doctors
+   Castle Connolly
+
+   2000 - 2006
+   Top Doctors New York Metro Area
+   Castle Connolly
+
+   2000 - 2006
+   Best Doctors Of New York
+   New York Magazine
+
+   1994 -
+   Mary Putnam Jacobi Award
+   Women's Medical Association of New York City
+
+   1993 -
+   W. Penfield Award
+   American Epilepsy Society
+
+   Germano IM, Emdad L, Qadeer ZA, Binello E, Uzzaman M. Embryonic stem
+   cell (ESC)-mediated transgene delivery induces growth suppression,
+   apoptosis and radiosensitization, and overcomes temozolomide resistance
+   in malignant gliomas.. Cancer Gene Ther 2010 Jun;: Epub ahead.
+
+   Roberts CC, Daffner RH, Weissman BN, Bancroft L, Bennett DL, Blebea JS,
+   Bruno MA, Fries IB, Germano IM, Holly L, Jacobson JA, Luchs JS,
+   Morrison WB, Olson JJ, Payne WK, Resnick CS, Schweitzer ME, Seeger LL,
+   Taljanovic M, Wise JN, Lutz ST. ACR appropriateness criteria on
+   metastatic bone disease.. J Am Coll Radiol 2010 Jun; 7(6): 400-409.
+
+   Videtic GM, Gaspar LE, Aref AM, Germano IM, Goldsmith BJ, Imperato JP,
+   Marcus KJ, McDermott MW, McDonald MW, Patchell RA, Robins HI, Rogers
+   CL, Suh JH, Wolfson AH, Wippold FJ. American College of Radiology
+   Appropriateness Criteria® topic, Multiple Brain Metastases. J
+   Radiation Oncology Biology Physics 2009 Nov; 75(4): 961-965.
+
+   Binello E, Germano IM. Tonsillary carcinoma after temozolomide
+   treatment for glioblastoma multiforme: treatment-related or
+   dual-pathology?. J Neurooncol 2009 Aug; 94(1): 145-148.
+
+   Germano IM, Binello E. Gene therapy as an adjuvant treatment of
+   malignant gliomas: from bench to bedside. J Neuro-Oncology 2009 May;
+   93(1): 79-87.
+
+   Uzzaman M, Keller G, Germano IM. In vivo Gene Delivery by embryonic
+   stem cell-derived astrocytes for malignant gliomas. Neuro-Oncology 2009
+   Apr; 11(2): 102-108.
+
+   Gonzales A, Sullivan G, Sips GJ, Naidich T, Kleinman G, Murray J,
+   Morgello S, Germano IM, Mullen M, Simpson D. . Inflammatory Pseudotumor
+   associated with HIV-JCV an immune-reconstruction syndrome. Neurology
+   2009 Jan; 72(3): 289-290.
+
+   Benzil D, Abosch A, Germano IM, Gilmer H, Maraire N, Muraszko K,
+   Pannullo S, Rosseau G, Schwartz L, Todor R, Ullman J, Zusman E. The
+   future of neurosurgery: a white paper on the recruitment and retention
+   of women in neurosurgery. J Neurosurgery 2008 Sept; 109(3): 378-386.
+
+   Germano IM, Uzzaman M, Keller G. Gene delivery by embryonic stem cells
+   for malignant gliomas. Cancer Biology and Therapy 2008 Sept; 7(9):
+   1341-1347.
+
+   Uzzaman M, Keller G, Germano I. In vivo Gene Delivery by embryonic stem
+   cell-derived astrocytes for malignant gliomas. Neuro-Oncology 2008 Apr;
+   11(2): 102-108.
+
+   Uzzaman M, Keller G, Germano IM. Enhanced pro-apotptotic effects of
+   tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) on
+   temozolomide-resistant glioma cells. J Neurosurgery 2007 Apr; 106(4):
+   646-651.
+
+   Germano I, Uzzaman M, Benveniste R, Zaurova M, Keller G. Apoptosis in
+   human glioma cells produced using embryonic stem cell-derived
+   astrocytes expressing tumor necrosis factor-related apoptosis-inducing
+   ligand (TRAIL). J Neurosurgery 2006 July; 105(1): 88-95.
+
+   Uzzaman M, Benveniste R, Keller G, Germano IM. Embryonic stem
+   cell-derived astrocytes: novel gene therapy vector for brain tumors.
+   Neurosurgical Focus 2005 Sept; 19(3): E6.
+
+   Benveniste R, Keller G, Germano IM. Embryonic stem cell-derived
+   astrocytes expressing drug-inducible transgenes: Differentiation and
+   allotransplantation into the mouse brain. J Neurosurgery 2005 July;
+   103(1): 115-123.
+
+   Benveniste R, Germano IM. Correlation of factors predicting
+   intraoperative brain shift with successful resection of malignant brain
+   tumors using image-guided techniques. Surg Neurol 2005 June; 63(6):
+   542-549.
+
+   Kanzawa T, Zhang L, Xiao L, Germano IM, Kondo Y, Kondo S. Arsenic
+   trioxide induces autophagic cell death in malignant glioma cells by
+   up-regulation of mitochondrial cell death protein BNIP3. Oncogene 2005
+   June; 24(6): 980-991.
+
+   Mccormick PJ, Osborn IP, Germano IM, Green S, Deiner SG. Scalp nerve
+   blockade reduces pain after headframe placement in radiosurgery: a
+   double blind, randomized clinical trial. Middle East journal of
+   anesthesiology 2013 Feb; 22(1).
+
+   Binello E, Green S, Germano IM. Radiosurgery for high-grade glioma.
+   Surgical neurology international 2012; 3(Suppl 2).
+
+   Binello E, Qadeer ZA, Kothari HP, Emdad L, Germano IM. Stemness of the
+   CT-2A Immunocompetent Mouse Brain Tumor Model: Characterization In
+   Vitro. Journal of Cancer 2012; 3.
+
+   Binello E, Germano IM. Stem cells as therapeutic vehicles for the
+   treatment of high-grade gliomas. Neuro-oncology 2012 Mar; 14(3).
+
+   Emdad L, D'Souza SL, Kothari HP, Qadeer ZA, Germano IM. Efficient
+   differentiation of human embryonic and induced pluripotent stem cells
+   into functional astrocytes. Stem cells and development 2012 Feb; 21(3).
+
+   Roberts CC, Daffner RH, Weissman BN, Bancroft L, Bennett DL, Blebea JS,
+   Bruno MA, Fries IB, Germano IM, Holly L, Jacobson JA, Luchs JS,
+   Morrison WB, Olson JJ, Payne WK, Resnik CS, Schweitzer ME, Seeger LL,
+   Taljanovic M, Wise JN, Lutz ST. ACR appropriateness criteria on
+   metastatic bone disease. Journal of the American College of Radiology :
+   JACR 2010 Jun; 7(6).
+
+   Barthélemy EJ, Benjamin E, Jean-Pierre MY, Poitevien G, Ernst S,
+   Osborn I, Germano I. A prospective emergency room-based study pattern
+   and outcome of neurological and neurosurgical diseases in Haiti. World
+   neurosurgery 2013 Oct;.
+
+   Binello E, Emdad I, Mormone E, Germano I. Characterization of
+   fenofibrate-mediated anti-proliferative pro-apoptotic effects on
+   high-grade glioma and anti-invasive effects on glioma stem cells.
+   Neuro-Oncology 2013;.
+
+   Mormone E, D'Sousa S, Alexeeva V, Bederson MM, Germano IM. . Stem cells
+   and development 2014 Nov; 23(21).
+
+   Germano IM, Binello E. Stem cells and gliomas: past, present, and
+   future. Journal of neuro-oncology 2014 Sep; 119(3).
+
+   Lo SS, Gore EM, Bradley JD, Buatti JM, Germano I, Ghafoori AP,
+   Henderson MA, Murad GJ, Patchell RA, Patel SH, Robbins JR, Robins HI,
+   Vassil AD, Wippold FJ, Yunes MJ, Videtic GM. ACR Appropriateness
+   Criteria® pre-irradiation evaluation and management of brain
+   metastases. Journal of palliative medicine 2014 Aug; 17(8).
+
+   Douglas AC, Wippold FJ, Broderick DF, Aiken AH, Amin-Hanjani S, Brown
+   DC, Corey AS, Germano IM, Hadley JA, Jagadeesan BD, Jurgens JS, Kennedy
+   TA, Mechtler LL, Patel ND, Zipfel GJ. ACR Appropriateness Criteria
+   Headache. Journal of the American College of Radiology : JACR 2014 Jul;
+   11(7).
+
+   Binello E, Mormone E, Emdad L, Kothari H, Germano IM. Characterization
+   of fenofibrate-mediated anti-proliferative pro-apoptotic effects on
+   high-grade gliomas and anti-invasive effects on glioma stem cells.
+   Journal of neuro-oncology 2014 Apr; 117(2).
+
+   Joshi V, Germano I, Meenakshi R, Doshi A. Paradoxical evolution of a
+   cerebellar tuberculosis abscess after surgical drainage and antibiotic
+   therapy. Surgical neurology international 2014; 5.
+
+   Lynch G, Nieto K, Puthenveettil S, Reyes M, Jureller M, Huang JH, Grady
+   MS, Harris OA, Ganju A, Germano IM, Pilitsis JG, Pannullo SC, Benzil
+   DL, Abosch A, Fouke SJ, Samadani U. Attrition rates in neurosurgery
+   residency: analysis of 1361 consecutive residents matched from 1990 to
+   1999. Journal of neurosurgery 2015 Feb; 122(2).
+
+   Barthélemy EJ, Benjamin E, Edouard Jean-Pierre MY, Poitevien G, Ernst
+   S, Osborn I, Germano IM. A prospective emergency department-based study
+   of pattern and outcome of neurologic and neurosurgical diseases in
+   Haiti. World neurosurgery 2014 Dec; 82(6).
+
+   Binello E, Germano IM. Stem cells as therapeutic vehicles for the
+   treatment of high-grade gliomas. Neuro-oncology 2012 Mar; 14(3).
+
+   Binello E, Qadeer ZA, Kothari HP, Emdad L, Germano IM. Stemness of the
+   CT-2A Immunocompetent Mouse Brain Tumor Model: Characterization In
+   Vitro. Journal of Cancer 2012; 3.
+
+   Mccormick PJ, Osborn IP, Germano IM, Green S, Deiner SG. Scalp nerve
+   blockade reduces pain after headframe placement in radiosurgery: a
+   double blind, randomized clinical trial. Middle East journal of
+   anaesthesiology 2013 Feb; 22(1).
+
+   Patel SH, Robbins JR, Gore EM, Bradley JD, Gaspar LE, Germano I,
+   Ghafoori P, Henderson MA, Lutz ST, McDermott MW, Patchell RA, Robins
+   HI, Vassil AD, Wippold FJ, Videtic GM. ACR Appropriateness Criteria®
+   follow-up and retreatment of brain metastases. American journal of
+   clinical oncology 2012 Jun; 35(3).
+
+   Binello E, Green S, Germano IM. Radiosurgery for high-grade glioma.
+   Surgical neurology international 2012; 3(Suppl 2).
+
+   Emdad L, D'Souza SL, Kothari HP, Qadeer ZA, Germano IM. Efficient
+   differentiation of human embryonic and induced pluripotent stem cells
+   into functional astrocytes. Stem cells and development 2012 Feb; 21(3).
+
+   Lehrer S, Labombardi V, Green S, Pessin-Minsley MS, Germano IM,
+   Rosenzweig KE. No circulating cytomegalovirus in five patients with
+   glioblastoma multiforme. Anticancer research 2011 Mar; 31(3).
+
+   Emdad L, Qadeer ZA, Bederson LB, Kothari HP, Uzzaman M, Germano IM. Is
+   there a common upstream link for autophagic and apoptotic cell death in
+   human high-grade gliomas?. Neuro-oncology 2011 Jul; 13(7).
+
+   Binello E, Germano IM. Targeting glioma stem cells: a novel framework
+   for brain tumors. Cancer science 2011 Nov; 102(11).
+
+   Wippold FJ. Orbits, vision, and visual loss. AJNR. American journal of
+   neuroradiology 2010 Jan; 31(1).
+
+   Germano I, Swiss V, Casaccia P. Primary brain tumors, neural stem cell,
+   and brain tumor cancer cells: where is the link?. Neuropharmacology
+   2010 May; 58(6).
+
+   Roberts CC, Daffner RH, Weissman BN, Bancroft L, Bennett DL, Blebea JS,
+   Bruno MA, Fries IB, Germano IM, Holly L, Jacobson JA, Luchs JS,
+   Morrison WB, Olson JJ, Payne WK, Resnik CS, Schweitzer ME, Seeger LL,
+   Taljanovic M, Wise JN, Lutz ST. ACR appropriateness criteria on
+   metastatic bone disease. Journal of the American College of Radiology :
+   JACR 2010 Jun; 7(6).
+
+   Germano IM, Emdad L, Qadeer ZA, Binello E, Uzzaman M. Embryonic stem
+   cell (ESC)-mediated transgene delivery induces growth suppression,
+   apoptosis and radiosensitization, and overcomes temozolomide resistance
+   in malignant gliomas. Cancer gene therapy 2010 Sep; 17(9).
+
+   Suh JH, Videtic GM, Aref AM, Germano I, Goldsmith BJ, Imperato JP,
+   Marcus KJ, McDermott MW, McDonald MW, Patchell RA, Robins HI, Rogers
+   CL, Wolfson AH, Wippold FJ, Gaspar LE. ACR Appropriateness Criteria:
+   single brain metastasis. Current problems in cancer; 34(3).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr. Germano
+   during 2014 and/or 2015. Please note that this information may differ
+   from information posted on corporate sites due to timing or
+   classification differences.
+
+   Consulting:
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Mount Sinai Health System (MSHS) physicians - including those employed
+   by MSHS - do not always participate in the same health plans in which
+   MSHS hospitals or facilities participate.
+
+   Information regarding insurance participation and billing by this
+   physician may be found on this page or obtained by contacting this
+   provider directly.
+
+   Insurance plans that the Mount Sinai Health System hospitals or
+   facilities participate in can be found on the Mount Sinai Health System
+   website.
+
+   Edit profile in Sinai Central
+
+   Annenberg Building Floor 8 Room 86
+   1468 Madison Avenue
+   New York, NY 10029
+
+   Mount Sinai Doctors Faculty Practice
+   7th Floor
+   New York, NY 10029
+
+   1470 Madison Avenue
+   3rd Floor
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49593-4270TMP.html
+javascript:window.print()
+mailto:isabelle.germano@mountsinai.org
+http://www.neurosurgerytumors.org/index.html
+file:///vgn_lnk/Regular%20Content/File/Daily%20News/G/Dr.%20Isabelle%20M.%20Germano.pdf
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://www.mountsinaihealth.org/about-the-health-system/insurance-info
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,294 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   jerry.chipuk@mssm.edu
+
+   B.S., Baldwin-Wallace College
+
+   Ph.D., Case Western Reserve University
+
+   Postdoctoral Training, La Jolla Institute for Allergy and Immunology
+
+   Postdoctoral Training, St. Jude Children‚s Research Hospital
+
+   2015 - 2019
+   Research Award
+   Irma T. Hirschl / Monique Weill-Caulier Research Trusts
+
+   2015 - 2018
+   Research Scholar Grant
+   American Cancer Society
+
+   2014 -
+   Dr. Harold and Golden Lamport Research Award
+
+   2013 - 2016
+   Basil O'Connor Phase-In Award
+   March of Dimes
+
+   2012 - 2014
+   Young Scientist Cancer Research Fund
+   JJR Foundation
+
+   2011 - 2013
+   Basil O'Connor Award
+   March of Dimes
+
+   2003 - 2006
+   Ruth Kirschstein NRSA
+   National Institutes of Health
+
+   Serasinghe MN, Weider SY, Renault TT, Elkholi R, Asciolla JJ, Yao JL,
+   Jabado O, Hoehn K, Kageyama Y, Sesaki H, Chipuk JE. Mitochondrial
+   division is requisite to RAS-induced transformation and targeted by
+   oncogenic MAPK pathway inhibitors. Molecular Cell 2015 Feb;.
+
+   Renault TT, Floros KV, Elkholi R, Corrigan KA, Kushnareva Y, Wieder SY,
+   Lindtner C, Serasinghe MN, Asciolla JJ, Buettner C, Newmeyer DD, Chipuk
+   JE. Mitochondrial shape governs BAX-induced membrane permeabilization
+   and apoptosis. Molecular Cell 2015 Jan 8; 57(1): 69-82.
+
+   Galluzzi L, Bravo-San Pedro JM, Vitale I, Aaronson SA, Abrams JM, Adam
+   D, Alnemri ES, Altucci L, Andrews D, Annicchiarico-Petruzzelli M,
+   Baehrecke EH, Bazan NG, Bertrand MJ, Bianchi K, Blagosklonny MV,
+   Blomgren K, Borner C, Bredesen DE, Brenner C, Campanella M, Candi E,
+   Cecconi F, Chan FK, Chandel NS, Cheng EH, Chipuk JE, Cidlowski JA,
+   Ciechanover A, Dawson TM, Dawson VL, De Laurenzi V, De Maria R, Debatin
+   KM, Di Daniele N, Dixit VM, Dynlacht BD, El-Deiry WS, Fimia GM, Flavell
+   RA, Fulda S, Garrido C, Gougeon ML, Green DR, Gronemeyer H, Hajnoczky
+   G, Hardwick JM, Hengartner MO, Ichijo H, Joseph B, Jost PJ, Kaufmann T,
+   Kepp O, Klionsky DJ, Knight RA, Kumar S, Lemasters JJ, Levine B,
+   Linkermann A, Lipton SA, Lockshin RA, L√≥pez-Ot√n C, Lugli E, Madeo F,
+   Malorni W, Marine JC, Martin SJ, Martinou JC, Medema JP, Meier P,
+   Melino S, Mizushima N, Moll U, Mu√±oz-Pinedo C, Nu√±ez G, Oberst A,
+   Panaretakis T, Penninger JM, Peter ME, Piacentini M, Pinton P, Prehn
+   JH, Puthalakath H, Rabinovich GA, Ravichandran KS, Rizzuto R, Rodrigues
+   CM, Rubinsztein DC, Rudel T, Shi Y, Simon HU, Stockwell BR, Szabadkai
+   G, Tait SW, Tang HL, Tavernarakis N, Tsujimoto Y, Vanden Berghe T,
+   Vandenabeele P, Villunger A, Wagner EF, Walczak H, White E, Wood WG,
+   Yuan J, Zakeri Z, Zhivotovsky B, Melino G, Kroemer G. Essential versus
+   accessory aspects of cell death: recommendations of the NCCD 2015. Cell
+   Death and Differentiation 2015 Jan; 22(1): 58-73.
+
+   Elkholi R, Renault TT, Serasinghe MN, Chipuk JE. Putting the pieces
+   together: How is the mitochondrial pathway of apoptosis regulated in
+   cancer and chemotherapy. Cancer & Metabolism 2014 Sept; 2(16): 1-15.
+
+   Renault TT, Elkholi R, Bharti A, Chipuk JE. BH3 mimetics demonstrate
+   differential activities dependent upon the functional repertoire of
+   pro- and anti-apoptotic BCL-2 family proteins. Journal of Biological
+   Chemistry 2014 Sept; 289(38): 26481-26491.
+
+   Chong RA, Wu K, Spratt DE, Yang Y, Lee C, Nayak J, Xu M, Elkholi R,
+   Tappin I, Li J, Hurwitz J, Brown BD, Chipuk JE, Chen ZJ, Sanchez R,
+   Shaw GS, Huang L, Pan ZQ. Pivotal role for the ubiquitin Y59-E51 loop
+   in lysine 48 polyubiquitination. Proc Natl Acad Sci USA 2014 June 10;
+   111(23): 8434-9.
+
+   Serasinghe MN, Missert DJ, Asciolla JJ, Podgrabinska S, Wieder SY,
+   Izadmehr S, Belbin G, Skobe M, Chipuk JE. Anti-apoptotic BCL-2 proteins
+   govern cellular outcome following BRAFV600E inhibition and can be
+   targeted to reduce resistance. Oncogene 2014 Mar 10;.
+
+   Zhang X, Lv H, Zhou Q, Elkholi R, Chipuk JE, Reddy MV, Reddy EP, Gallo
+   JM. Preclinical pharmacological evaluation of a novel multiple kinase
+   inhibitor, ON123300, in brain tumor models. Molecular Cancer
+   Therapeutics 2014 May; 13(5): 1105-16.
+
+   Lopez-Rivera E, Jayaraman P, Parikh F, Davies MA, Ekmekcioglu S,
+   Izadmehr S, Milton DR, Chipuk JE, Grimm EA, Estrada Y, Aguirre-Ghiso
+   JA, Sikora AG. Inducible nitric oxide synthase drives mTOR pathway
+   activation and proliferation of human melanoma by reversible
+   nitrosylation of TSC2. Cancer Research 2014 Feb 15; 74(4): 1067-1078.
+
+   Elkholi R, Chipuk JE. How do I kill thee? Let me count the ways: p53
+   regulates PARP-1 dependent necrosis. BioEssays 2014 Jan; 36(1): 46-51.
+
+   Renault TT, Chipuk JE. Death upon a kiss: mitochondrial outer membrane
+   composition and organelle communication govern sensitivity to
+   BAK/BAX-dependent apoptosis. Chemistry & Biology 2014 Jan 16; 21(1):
+   114-123.
+
+   Fink MY, Chipuk JE. Survival of HER2-positive breast cancer cells:
+   receptor signaling to apoptotic control centers. Genes & Cancer 2013
+   May 8; 4(5-6): 187-195.
+
+   Renault TT, Floros KV, Chipuk JE. BAK/BAX activation and cytochrome c
+   release assays using isolated mitochondria. Methods 2013 June; 61(2):
+   146-155.
+
+   Beverly LJ, Howell LA, Hernandez-Corbacho M, Casson L, Chipuk JE,
+   Siskind LJ. BAK activation is necessary and sufficient to drive
+   ceramide synthase-dependent ceramide accumulation following inhibition
+   of BCL2-like proteins. The Biochemical Journal 2013 May 15; 452(1):
+   111-9.
+
+   Renault TT, Chipuk JE. Getting away with murder: how do the BCL-2
+   family of proteins kill with immunity?. Annals of the New York Academy
+   of Science 2013 May; 1285(1): 59-79.
+
+   Follis AV, Chipuk JE, Fisher JC, Yun MK, Grace CR, Nourse A, Baran K,
+   Ou L, Min L, White SW, Green DR, Kriwacki RW. PUMA binding induces
+   partial unfolding within BCL-xL to disrupt p53 binding and promote
+   apoptosis. Nature Chemical Biology 2013 Mar; 9(3): 163-8.
+
+   Renault TT, Chipuk JE. Inter-organellar communication with mitochondria
+   regulates both the intrinsic and extrinsic pathways of apoptosis.
+   Communicative & Integrative Biology 2013 March/April; 6(2): 1-4.
+
+   Anvekar RA, Asciolla JJ, Lopez-Rivera E, Floros KV, Izadmehr S, Elkholi
+   R, Belbin G, Sikora AG, Chipuk JE. Sensitization to the mitochondrial
+   pathway of apoptosis augments melanoma tumor cell responses to
+   conventional chemotherapeutic regimens. Cell Death and Disease 2012 Nov
+   15; 3(e420): 1-11.
+
+   Asciolla JJ, Renault TT, Chipuk JE. Examining BCL-2 family function
+   with large unilamellar vesicles. Journal of Visualized Experiments 2012
+   Oct 5; 68: 1-6.
+
+   Greter M, Helft J, Chow A, Hashimoto D, Mortha A, Agudo-Cantero J,
+   Bogunovic M, Gautier EL, Miller J, Leboeuf M, Lu G, Aloman C, Brown BD,
+   Pollard JW, Xiong H, Randolph GJ, Chipuk JE, Frenette PS, Merad M.
+   GM-CSF controls nonlymphoid tissue dendritic cell homeostasis but is
+   dispensable for the differentiation of inflammatory dendritic cells.
+   Immunity 2012 Jun; 36(6): 1031-46.
+
+   Chipuk JE, McStay GP, Bharti A, Kuwana T, Clarke CJ, Siskind LJ, Obeid
+   LM, Green DR. Sphingolipid metabolism cooperates with BAK and BAX to
+   promote the mitochondrial pathway of apoptosis. Cell 2012 March;
+   148(5): 988-1000.
+
+   Garrison SP, Phillips DC, Jeffers JR, Chipuk JE, Parsons MJ, Rehg JE,
+   Opferman JT, Green DR, Zambetti GP. Genetically defining the mechanism
+   of PUMA- and BIM-induced apoptosis. Cell Death and Differentiation 2012
+   Apr; 18(4): 642-9.
+
+   Elkholi R, Floros KV, Chipuk JE. The role of BH3-Only proteins in tumor
+   cell development, signaling, and treatment. Genes & Cancer 2011 May;
+   2(5): 523-37.
+
+   Anvekar RA, Asciolla JJ, Missert DJ, Chipuk JE. Born to be alive: a
+   role for the BCL-2 family in melanoma tumor cell survival, apoptosis,
+   and treatment. Frontiers in Molecular Oncology 2011 Oct; 1(34).
+
+   Du H, Wolf J, Schafer B, Moldoveanu T, Chipuk JE, Kuwana T. BH3 domains
+   other than BIM and BID can directly activate BAX/BAK. The Journal of
+   Biological Chemistry 2011 Jan; 286(1): 491-501.
+
+   McAuley JL, Chipuk JE, Boyd KL, Van De Velde N, Green DR, McCullers JA.
+   PB1-F2 proteins from H5N1 and 20th century pandemic influenza viruses
+   cause immunopathology. PLoS Pathogens 2010; 6(7).
+
+   Chipuk JE, Moldoveanu T, Llambi F, Parsons MJ, Green DR. The BCL-2
+   family reunion. Molecular Cell 2010 Feb; 37(3): 299-310.
+
+   Chipuk JE, Green DR. PUMA cooperates with direct activator proteins to
+   promote mitochondrial outer membrane permeabilization and apoptosis.
+   Cell Cycle 2009 Sep; 8(17): 2692-6.
+
+   Chipuk JE, Green DR. How do BCL-2 proteins induce mitochondrial outer
+   membrane permeabilization? . Trends in Cell Biology 2008 April; 18(4):
+   157-164.
+
+   Cassidy-Stone A, Chipuk JE, Ingerman E, Song C, Yoo C, Kurth MJ,
+   Hinshaw J, Shaw J, Green DR, Nunnari J. Mitochondrial division
+   inhibitors reveal the role of the mitochondrial division dynamin in
+   BAX/BAK-dependent mitochondrial cytochrome c release. Developmental
+   Cell 2008 February; 14(2): 193-204.
+
+   Green D, Chipuk J. Stabbed in the BAX. Nature 2008 October; 455(7216):
+   1047-1049.
+
+   Chipuk JE, Fisher JC, Dillon CP, Kuwana T, Kriwacki RW, Green DR.
+   Mechanism of apoptosis induction by the inhibition of BCL-2 proteins.
+   Proceedings of the National Academy of Science - USA 2008 Dec; 105(51):
+   20327-20332.
+
+   Chipuk JE, Green DR. Do inducers of apoptosis trigger
+   caspase-independent cell death?. Nature Reviews Molecular Cellular
+   Biology 2005 March; 6(3): 268-275.
+
+   Kuwana T, Bouchier-Hayes L, Chipuk JE, Bonzon C, Sullivan BA, Green DR.
+   BH3 domains of BH3-only proteins differentially regulate BAX-mediated
+   membrane permeabilization both directly and indirectly. Molecular Cell
+   2005 Feb; 17(4): 525-35.
+
+   Chipuk JE, Bouchier-Hayes L, Newmeyer DD, Green DR. PUMA couples the
+   nuclear and cytoplasmic pro-apoptotic function of p53. Science 2005
+   Sept; 309(5741): 1732-1735.
+
+   Spierings D, McStay GP, Saleh M, Bender C, Chipuk JE, Maurer U, Green
+   DR. Connected to death: the (unexpurgated) mitochondrial pathway of
+   apoptosis. Science 2005 Oct; 310(5745): 66-67.
+
+   Chipuk JE, Kuwana T, Bouchier-Hayes L, Droin NM, Newmeyer DD, Schuler
+   M, Green DR. Direct activation of BAX by p53 mediates mitochondrial
+   outer membrane permeabilization and apoptosis. Science 2004 Feb;
+   303(5660): 1010-1014.
+
+   Chipuk JE, Maurer U, Green DR, Schuler M. Pharmacologic activation of
+   p53 elicits BAX-dependent apoptosis in the absence of transcription.
+   Cancer Cell 2003 Nov; 4(5): 371-381.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Chipuk did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 15-20E
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49502-9921TMP.html
+javascript:window.print()
+mailto:jerry.chipuk@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

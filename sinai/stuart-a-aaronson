@@ -1,0 +1,222 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   B.S., University of California, Berkeley
+
+   University of Cambridge
+
+   M.D., University of California, San Francisco School of Medicine
+
+   Moffitt Hospital
+
+   Dr. Aaronson is an internationally recognized cancer biologist, who in
+   early studies established the transformation-competent but replication
+   defective nature of mammalian sarcoma viruses and molecularly cloned
+   many of their oncogenes. He and colleagues implicated
+   retroviral-related oncogenes in human cancer through investigations
+   including the initial detection of their expression in human tumors and
+   critical contributions to the demonstration of their involvement in
+   human cancer. His investigations of the v-sis oncogene established the
+   first normal function of an oncogene and the role of oncogenes in
+   growth factor signaling. His discovery of erbB2 as a v-erbB-related
+   gene amplified in a human breast carcinoma and demonstration of its
+   transforming properties paved the way for targeted therapies directed
+   against its product.
+
+   He isolated KGF (FGF7), a growth factor with novel epithelial cell
+   specificity and demonstrated its involvement in wound repair. Its
+   successful phase III clinical trial by Amgen for treatment of
+   mucositis, recently led the FDA to approve Kepivance (KGF) for
+   treatment of this debilitating side effect of many cancer therapies.
+   Thus, Dr. Aaronson's pioneering discoveries have directly led to new
+   therapies for cancer patients.
+
+   His development and application of stable expression cDNA cloning
+   technology resulted in his identification of new human oncogenes,
+   growth factor receptors, and other genes, which induce transformation
+   or drug resistance. He and colleagues identified the protooncogene
+   product, MET, as the receptor for HGF/Scatter Factor and LRP5/6 as the
+   receptor for a novel Wnt antagonist, Dkk1. This latter discovery paved
+   the way for his recent demonstration with colleagues of a Wnt autocrine
+   transforming mechanism in human malignancies.
+
+   Dr. Aaronson received his M.D. from UCSF in 1966. He joined the
+   National Institutes of Health in 1967 and became Chief of the
+   Laboratory of Cellular and Molecular Biology at the National Cancer
+   Institute in 1977. He joined Mount Sinai in 1994 and is the Jack and
+   Jane B. Aron Professor and Founding Chair, Emeritus of the Department
+   of Oncological Sciences. He is the recipient of numerous awards
+   including the Distinguished Service Medal from the U.S. Public Health
+   Service, the Rhoads Memorial Award from the American Association of
+   Cancer Research, and the Paul Erhlich Prize from Germany. He is the
+   author of over 530 publications, an inventor on more than 50 patents,
+   and serves on numerous editorial boards and scientific advisory
+   committees.
+
+   2013 -
+   MSSM Faculty Council Lifetime Achievement Award
+   Icahn School of Medicine at Mount Sinai
+
+   2010 -
+   Member
+   Accademia Nazionale Dei Lincei
+
+   1991 -
+   Harvey Lecture
+
+   1991 -
+   Chirone Prize
+
+   1990 -
+   Milken Award
+
+   1989 -
+   PHS Distinguished Service Medal
+
+   1989 -
+   Paul Ehrlich Prize
+
+   1982 -
+   PHS Meritorious Service Medal
+
+   1982 -
+   Rhoads Memorial Award
+
+   1966 -
+   Alpha Omega Alpha
+
+   1962 -
+   Phi BetaKappa
+
+   New York Academy of Sciences eBriefing: Digging for Therapeutic Gold
+
+   P L, A C, S A, T K, D B, L L, A M, S.A. A, H S, R P, E C. Design,
+   Synthesis, Crystallographic Studies and Preliminary Biologica Appraisal
+   of New Subsituted Triazolo [4,3-b[pyridazin-8-amine Derivatives as
+   Tankyrase Inhibitors. J. Med. Chem 2014 Feb;.
+
+   Benson EK, Mungamuri SK, Attie O, Kracikova M, Sachidanandam R,
+   Manfredi JJ, Aaronson SA. p53-dependent gene repression through p21 is
+   mediated by recruitment of E2F4 repression complexes. Oncogene 2013
+   Oct;.
+
+   Mungamuri SK, Murk W, Grumolato L, Bernstein E, Aaronson SA. Chromatin
+   modifications sequentially enhance ErbB2 expression in ErbB2-positive
+   breast cancers. Cell reports 2013 Oct; 5(2).
+
+   Grumolato L, Liu G, Haremaki T, Mungamuri SK, Mong P, Akiri G,
+   Lopez-Bergami P, Arita A, Anouar Y, Mlodzik M, Ronai ZA, Brody J,
+   Weinstein DC, Aaronson SA. β-Catenin-independent activation of
+   TCF1/LEF1 in human hematopoietic tumor cells through interaction with
+   ATF2 transcription factors. PLoS genetics 2013; 9(8).
+
+   Hamard PJ, Barthelery N, Hogstad B, Mungamuri SK, Tonnessen CA,
+   Carvajal LA, Senturk E, Gillespie V, Aaronson SA, Merad M, Manfredi JJ.
+   The C terminus of p53 regulates gene expression by multiple mechanisms
+   in a target- and tissue-specific manner in vivo. Genes & development
+   2013 Sep; 27(17).
+
+   Serysheva E, Berhane H, Grumolato L, Demir K, Balmer S, Bodak M,
+   Boutros M, Aaronson S, Mlodzik M, Jenny A. Wnk kinases are positive
+   regulators of canonical Wnt/β-catenin signalling. EMBO reports 2013
+   Aug; 14(8).
+
+   Kracikova M, Akiri G, George A, Sachidanandam R, Aaronson SA. A
+   threshold mechanism mediates p53 cell fate decision between growth
+   arrest and apoptosis. Cell death and differentiation 2013 Apr; 20(4).
+
+   Shapiro M, Akiri G, Chin C, Wisnivesky JP, Beasley MB, Weiser TS,
+   Swanson SJ, Aaronson SA. Wnt pathway activation predicts increased risk
+   of tumor recurrence in patients with stage I nonsmall cell lung cancer.
+   Annals of surgery 2013 Mar; 257(3).
+
+   Brown-Endres L, Schoenfeld D, Tian F, Kim HG, Namba T, Muñoz-Fontela
+   C, Mandinova A, Aaronson SA, Lee SW. Expression of the p53 target CDIP
+   correlates with sensitivity to TNFα-induced apoptosis in cancer cells.
+   Cancer research 2012 May; 72(9).
+
+   Mungamuri SK, Benson EK, Wang S, Gu W, Lee SW, Aaronson SA.
+   p53-mediated heterochromatin reorganization regulates its cell fate
+   decisions. Nature structural & molecular biology 2012 May; 19(5).
+
+   Dai C, Tang Y, Jung SY, Qin J, Aaronson SA, Gu W. Differential effects
+   on p53-mediated cell cycle arrest vs. apoptosis by p90. Proceedings of
+   the National Academy of Sciences of the United States of America 2011
+   Nov; 108(47).
+
+   Kim HG, Hwang SY, Aaronson SA, Mandinova A, Lee SW. DDR1 receptor
+   tyrosine kinase promotes prosurvival pathway through Notch1 activation.
+   The Journal of biological chemistry 2011 May; 286(20).
+
+   Muñoz-Fontela C, Pazos M, Delgado I, Murk W, Mungamuri SK, Lee SW,
+   Garc�a-Sastre A, Moran TM, Aaronson SA. p53 serves as a host antiviral
+   factor that enhances innate and adaptive immune responses to influenza
+   A virus. Journal of immunology (Baltimore, Md. : 1950) 2011 Dec;
+   187(12).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr.
+   Aaronson during 2014 and/or 2015. Please note that this information may
+   differ from information posted on corporate sites due to timing or
+   classification differences.
+
+   Scientific Advisory Board:
+
+   Royalty Payments:
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 15 Room 52
+   1425 Madison Avenue
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 15 Room 15-70
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49436-6427TMP.html
+javascript:window.print()
+http://www.nyas.org/Publications/EBriefings/Detail.aspx?cid=7f541b62-de88-478b-b480-dfc2d7c2aa9b
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

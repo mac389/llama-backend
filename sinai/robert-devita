@@ -1,0 +1,216 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   robert.devita@mssm.edu
+
+   M.S., University of Rochester
+
+   B.A., Rutgers College
+
+   Ph.D., University of Rochester
+
+   Postdoctoral Fellowship, University of Geneva
+
+   Dr. DeVita is a Professor in the Departments of Pharmacology and
+   Systems Therapeutics and Structural and Chemical Biology and the
+   Director of the Medicinal Chemistry Core of the Experimental
+   Therapeutics Institute (ETI).  Prior to joining Mt Sinai, Dr. DeVita
+   gained expertise managing multi-disciplinary teams that delivered on
+   key program objectives for complex molecular targets.  He has over 25
+   years working in biotech and the pharmaceutical industry, including at
+   Merck Research Laboratories where he was a director of medicinal
+   chemistry. His work has spanned the drug discovery paradigm from target
+   ID to PII, including leadership of drug development teams. In
+   collaboration with multi-disciplinary teams, he has identified multiple
+   development candidates including two PII clinical compounds for CNS and
+   CV targets.  Dr. DeVita has drug discovery experience within a broad
+   range of therapeutic areas including: CNS, pain/inflammation, diabetes,
+   cardiovascular, hypertension, obesity, endocrinology, urology and
+   oncology.  He has developed, in collaboration with his teams, orally
+   active, brain penetrant, peripheral and GI tract drug targeting
+   strategies.   He also has experience in the discovery and development
+   of PET imaging agents and translational biomarkers for CNS targets.
+
+   Dr. DeVita has been an active member of the Medicinal Chemistry
+   Division of the American Chemical Society serving on the Long Range
+   Planning Committee and on the organizing committees for National and
+   International Medicinal Chemistry Meetings. He has served as an Ad Hoc
+   Reviewer for the National Institutes of Health Study Section for
+   Synthetic and Biological Chemistry (Section B).
+
+   1989 - 1990
+   U.S. National Science Foundation Postdoctoral Fellowship
+   U.S. National Science Foundation
+
+   1988 - 1989
+   American Chemical Society Fellow
+   American Chemical Society Division of Organic Chemistry
+
+   1988 - 1989
+   Elon Huntington Hooker Fellow
+   University of Rochester
+
+   1985 - 1989
+   Sherman Clarke Fellow
+   University of Rochester
+
+   Drug discovery target identification and validation to meet the needs
+   of patients has become even more challenging in spite of the huge
+   amounts of genomic and metabolomic data available today.  Close
+   collaboration between biological and chemical sciences is vital to
+   determine biological mechanisms of disease and to discover approaches
+   to positively impact the disease state through intervention using
+   molecular therapeutics. The research program of our laboratory is to
+   develop novel chemical and biological tools in collaboration with our
+   colleagues across the wide variety of therapeutic areas of interest to
+   the Mount Sinai Research Community.  Targets meeting sufficient
+   criteria of validation have the opportunity to enter into the drug
+   discovery portfolio of the Experimental Therapeutics Institute.
+
+   The DeVita Laboratory supports many drug discovery and development
+   activities including:
+
+   -      evaluation of high throughput and virtual screens
+
+   -      hit validation and follow-up
+
+   -      lead identification
+
+   -     chemical tools for in vivo studies in preclinical animal models
+   of disease
+
+   -  lead optimization with the eventual goal of  identification of
+   candidates for clinical studies.
+
+   In addition, an important focus of the laboratory is to develop key
+   chemical and biochemical tools necessary to create translational and
+   target engagement biomarkers, including imaging agents, to further
+   understand the impact on disease states and underlying biology to
+   effectively intervene in the designated disease pathway.
+
+   The laboratory works toward the identification of novel chemical matter
+   by developing new chemical processes and syntheses in the areas of
+   heterocyclic chemistry and carbon-carbon bond forming reactions to
+   access unexploited chemical space.
+
+   Jiang J, Bunda JL, Doss GA, Chicchi GG, Kurtz MM, Tsao KL, Tong X,
+   Zheng S, Upthagrove A, Samuel K, Tschirret-Guth R, Kumar S, Wheeldon A,
+   Carlson EJ, Hargreaves R, Burns D, Hamill T, Ryan C, Krause SM, Eng W,
+   DeVita RJ, Mills SG. Potent, brain-penetrant, hydroisoindoline-based
+   human neurokinin-1 receptor antagonists. Journal of medicinal chemistry
+   2009 May; 52(9).
+
+   McMasters DR, Garcia-Calvo M, Maiorov V, McCann ME, Meurer RD, Bull HG,
+   Lisnock J, Howell KL, Devita RJ. Spiroimidazolidinone NPC1L1
+   inhibitors. 1: Discovery by 3D-similarity-based virtual screening.
+   Bioorganic & medicinal chemistry letters 2009 Jun; 19(11).
+
+   Simeone JP, Braun MP, Leone JF, Lin P, DeVita RJ, Garcia-Calvo M, Bull
+   HG, Lisnock J, Dean DC. Multiple strategies for the preparation of a
+   sulfur-35 labeled NPC1L1 radioligand. Bioorganic & medicinal chemistry
+   letters 2009 Sep; 19(17).
+
+   Ramu A, Ramu N, Rosario LM. Circumvention of multidrug-resistance in
+   P388 cells is associated with a rise in the cellular content of
+   phosphatidylcholine. Biochemical pharmacology 1991 May; 41(10).
+
+   Morriello GJ, Mills SG, Johnson T, Reibarkh M, Chicchi G, DeMartino J,
+   Kurtz M, Davies P, Tsao KL, Zheng S, Tong X, Carlson E, Townson K,
+   Tattersall FD, Wheeldon A, Boyce S, Collinson N, Rupniak N, Moore S,
+   DeVita RJ. Substituted fused bicyclic pyrrolizinones as potent, orally
+   bioavailable hNK1 antagonists. Bioorganic & medicinal chemistry letters
+   2010 Mar; 20(6).
+
+   Morriello GJ, Chicchi G, Johnson T, Mills SG, Demartino J, Kurtz M,
+   Tsao KL, Zheng S, Tong X, Carlson E, Townson K, Wheeldon A, Boyce S,
+   Collinson N, Rupniak N, Devita RJ. Fused tricyclic pyrrolizinones that
+   exhibit pseudo-irreversible blockade of the NK1 receptor. Bioorganic &
+   medicinal chemistry letters 2010 Oct; 20(19).
+
+   Howell KL, DeVita RJ, Garcia-Calvo M, Meurer RD, Lisnock J, Bull HG,
+   McMasters DR, McCann ME, Mills SG. Spiroimidazolidinone NPC1L1
+   inhibitors. Part 2: structure-activity studies and in vivo efficacy.
+   Bioorganic & medicinal chemistry letters 2010 Dec; 20(23).
+
+   McLaren DG, He T, Wang SP, Mendoza V, Rosa R, Gagen K, Bhat G, Herath
+   K, Miller PL, Stribling S, Taggart A, Imbriglio J, Liu J, Chen D, Pinto
+   S, Balkovec JM, Devita RJ, Marsh DJ, Castro-Perez JM, Strack A, Johns
+   DG, Previs SF, Hubbard BK, Roddy TP. The use of stable-isotopically
+   labeled oleic acid to interrogate lipid assembly in vivo: assessing
+   pharmacological effects in preclinical species. Journal of lipid
+   research 2011 Jun; 52(6).
+
+   Kassick AJ, Jiang J, Bunda J, Wilson D, Bao J, Lu H, Lin P, Ball RG,
+   Doss GA, Tong X, Tsao KL, Wang H, Chicchi G, Karanam B, Tschirret-Guth
+   R, Samuel K, Hora DF, Kumar S, Madeira M, Eng W, Hargreaves R, Purcell
+   M, Gantert L, Cook J, DeVita RJ, Mills SG.
+   2-[(3aR,4R,5S,7aS)-5-{(1S)-1-[3,5-bis(trifluoromethyl)phenyl]-2-hydroxy
+   ethoxy}-4-(2-methylphenyl)octahydro-2H-isoindol-2-yl]-1,3-oxazol-4(5H)-
+   one: a potent human NK1 receptor antagonist with multiple clearance
+   pathways. Journal of medicinal chemistry 2013 Jul; 56(14).
+
+   DeVita RJ, Pinto S. Current status of the research and development of
+   diacylglycerol O-acyltransferase 1 (DGAT1) inhibitors. Journal of
+   medicinal chemistry 2013 Dec; 56(24).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Below are financial relationships with industry reported by Dr. DeVita
+   during 2014 and/or 2015. Please note that this information may differ
+   from information posted on corporate sites due to timing or
+   classification differences.
+
+   Consulting:
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Annenberg Building Floor 19 Room 06A
+   1468 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49532-9118TMP.html
+javascript:window.print()
+mailto:robert.devita@mssm.edu
+http://labs.icahn.mssm.edu/devita-lab/
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

@@ -1,0 +1,130 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   mihaly.mezei@mssm.edu
+
+   Ph.D., Etvs Lornd University
+
+   New York University
+
+   New topic
+
+   Specific Clinical/Research Interest:
+   Computer simulation of aqueous systems; methodology and biomolecular
+   applications
+
+   Summary of Research Studies:
+   Research in my laboratory centers on developing computational
+   techniques for the modeling and understanding of complex molecular
+   systems such as proteins and nucleic acids in their aqueous
+   environments. The methods developed are applied to problems of interest
+   in structural biology. Methodological developments focus on novel
+   techniques to calculate free energy from computer simulations, on
+   extending the range of applicability of grand-canonical ensemble
+   simulations, on enhancing Monte Carlo sampling algorithms and on
+   developing novel approaches to the analysis and visualization of
+   macromolecular structures and computer simulation results. These
+   techniques are applied to the calculation of the solvent contribution
+   to conformational free energy differences between various conformation
+   of polypeptides, drug candidates; probing ionic solvation; modeling
+   lipid bilayers. In addition, ligand-protein interactions are studied by
+   docking tecniques and by molecular dynamics. Recent work showed that
+   grand-canonical ensemble simulations can be used to predict sites for
+   derivatizing a ligand in order to enhance its binding affinity.
+
+   Jin YJ, Cai CY, Mezei M, Ohlmeyer M, Sanchez R, Burakoff SJ.
+   Identification of a novel binding site between HIV type 1 Nef
+   C-terminal flexible loop and AP2 required for Nef-mediated CD4
+   downregulation. AIDS research and human retroviruses 2013 Apr; 29(4).
+
+   Dixit SB, Mezei M, Beveridge DL. Studies of base pair sequence effects
+   on DNA solvation based on all-atom molecular dynamics simulations.
+   Journal of biosciences 2012 Jul; 37(3).
+
+   Cui M, Mezei M, Osman R. Prediction of protein loop structures using a
+   local move Monte Carlo approach and a grid-based force field. Protein
+   Eng. Des. Sel 2008; 21: 729-735.
+
+   Pan C, Mezei M, Mujtaba S, Muller M, Zeng L, Li J, Wang Z, Zhou MM.
+   Structure-guided optimization of small molecules inhibiting human
+   immunodeficiency virus 1 tat association with the human coactivator
+   p300/CREB binding protein-associated factor. J. Med. Chem 2007; 50:
+   2285-2288.
+
+   Speidel JA, Banfelder JR, Mezei M. Automatic Control of Solvent Density
+   in Grand Canonical Ensemble Monte Carlo Simulations. J. Chem. Theory
+   and Comp 2006; 2: 1429-1434.
+
+   Mezei M, Filizola M. TRAJELIX: A computational tool for the geometric
+   characterization of protein helices during molecular dynamics
+   simulations. J. Computer-Aided Molecular Design 2006; 20: 97-107.
+
+   Mezei M, Fleming PJ, Srinivasan R, Rose GD. The solvation free energy
+   of the peptide backbone is conformation-dependent. Proteins 2004; 55:
+   502-507.
+
+   Mezei M. A novel fingerprint for the characterization of protein folds.
+   Prot. Engng 2003; 16: 713-715.
+
+   Mezei M. A new method for mapping macromolecular topography. J. Mol.
+   Graph. Model 2003; 21: 463-472.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Mezei has not yet completed reporting of Industry relationships.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 16 Room 75A
+   1425 Madison Avenue
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 16 Room 75A
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49698-7411TMP.html
+javascript:window.print()
+mailto:mihaly.mezei@mssm.edu
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

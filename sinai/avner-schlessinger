@@ -1,0 +1,115 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   avner.schlessinger@mssm.edu
+
+   B.Sc., Tel Aviv University
+
+   Ph.D., Columbia University
+
+   Postdoctoral Training, University of California, San Francisco
+
+   Dr. Schlessinger is an Assistant Professor in the Department of
+   Pharmacology and Systems Therapeutics, and is a member of the Tisch
+   Cancer Institute, at the Icahn School of Medicine at Mount Sinai in New
+   York City. The overall goal of Dr. Schlessingerâs lab is to improve and
+   automate the structure-based discovery process by developing and
+   applying novel computational approaches, and to collaborate with
+   experimental labs to characterize pharmacologically important proteins,
+   with a long-term goal of developing cancer drugs. His lab publishes in
+   the areas of structural biology, bioinformatics, and drug discovery, as
+   well as in personalized medicine and pharmacogenetics. Dr. Schlessinger
+   graduated from Tel Aviv University with a B.Sc. in Chemistry and
+   Biology, and completed his Ph.D. from Columbia University in the
+   Department of Biochemistry and Molecular Biophysics. Following his
+   graduate studies, Dr. Schlessinger was an NIH NRSA postdoctoral fellow
+   at the Department of Bioengineering and Therapeutic Sciences,
+   University of California San Francisco (UCSF), where he developed
+   methods for protein structure prediction and structure-based drug
+   design. Dr. Schlessinger is an Associate Editor of PLOS Computational
+   Biology. Dr. Schlessinger joined the faculty at the Icahn School of
+   Medicine at Mount Sinai in January, 2013.
+
+   Our lab focuses on the development and application of computational
+   tools to annotate the functions of proteins. The two major research
+   areas of our group include:
+
+   1. Structure-based drug design for membrane transporters. Our group
+   characterizes cancer-related membrane transporter proteins, using a
+   structure-based discovery approach, including homology modeling and
+   virtual ligand screening, in collaboration with experimental labs. We
+   rationally design novel chemical tools to study transportersâ role in
+   cancer metabolism pathways, with a long-term goal of developing drugs
+   against these potential cancer drug targets.
+
+   2. Structural bioinformatics. The lab works on developing and applying
+   sequence-based and structure-based methods to predict different
+   features of proteins using various machine-learning techniques. We
+   analyze the predicted features of proteins in the context of networks
+   and proteomes, to characterize protein functions.
+
+   Schlessinger lab website
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Schlessinger did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Annenberg Building Floor 19 Room 60a
+   1468 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49821-4357TMP.html
+javascript:window.print()
+mailto:avner.schlessinger@mssm.edu
+http://www.schlessingerlab.org/
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

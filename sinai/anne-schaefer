@@ -1,0 +1,224 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   anne.schaefer@mssm.edu
+
+   MD, Johannes Gutenberg University
+
+   MD, PhD, Charité University
+
+   Postdoc, The Rockefeller University
+
+   Click here for more information on Dr. Schaefer's 2012 Director�s New
+   Innovator Award from the National Institutes of Health (NIH).
+
+   Dr. Schaefer is an Assistant Professor of Neuroscience and Psychiatry
+   and a Seaver Fellow at the Friedman Brain Institute at Mount Sinai
+   School of Medicine. She did her graduate studies at the Johannes
+   Gutenberg University Mainz, the Charité University Berlin and The
+   Rockefeller University in New York. In the fall of 2004 she joined Dr.
+   Paul Greengard's Laboratory at The Rockefeller University where she
+   completed her postdoctoral studies and was promoted to Research
+   Associate in 2007 and Senior Research Associate in 2009. She joined the
+   Friedman Brain Institute at Mount Sinai School of Medicine to start her
+   own laboratory in 2011. Her research is focused on understanding how
+   epigenetic mechanisms contribute to maintenance of specialized neuronal
+   functions and their alteration during psychiatric and neurodegenerative
+   diseases.
+
+   Anne Schaefer has been named a 2014 Kavli Frontiers of Science Fellow
+   by the National Academy of Sciences (NAS). The Kavli program honors
+   young scientists who are considered leaders in their fields and have
+   made significant contributions to science. Jointly sponsored by the US
+   National Academy of Sciences and The Kavli Foundation, the Kavli
+   Frontiers of Science bring together some of the very best young
+   scientists (under age 45) to discuss exciting advances and
+   opportunities in their fields in a format that encourages informal
+   collective, as well as one-on-one discussions among participants. Dr.
+   Schaefer was invited to the Japanese-American Frontiers of Science (
+   JAFoS) Symposium that took place in Tokio in December 2014.
+
+   Visit Anne Schaefer's Laboratory of Brain Epigenetics for more
+   information.
+
+
+   2014 - 2014
+   Kavli Frontiers in Science Fellow
+   The National Academy of Science
+
+   2014 - 2014
+   Cure Challenge Award
+   Cure Challenge
+
+   2014 - 2014
+   Technology Development Fund Award
+   Mount Sinai Innovation
+
+   2012 - 2012
+   Research Award
+   Seaver Autism Center
+
+   2012 - 2012
+   NIH Director�s New Innovator Award
+   NIH
+
+   2012 - 2012
+   Chrissy Rossi Investigator
+   Chrissy Rossi
+
+   2011 - 2011
+   NARSAD Young Investigator Award
+   NARSAD
+
+   2006 - 2008
+   Research Fellowship
+   German Research Foundation DFG
+
+   2005 - 2005
+   Hans-Hench Award 2005
+   German Society for Immunology, Germany
+
+   2004 - 2004
+   Summa cum lauden
+   Charité University Berlin
+
+   2003 - 2003
+   Research Award
+   Keystone Scholar Travel Award
+
+   2001 - 2003
+   USA Research Scholarship
+   The German National Academic Foundation
+
+   1999 - 2003
+   Scholarship
+   German National Merit Foundation
+
+   Gao Z, Lee P, Stafford JM, von Schimmelmann M, Schaefer A, Reinberg D.
+   An AUTS2-Polycomb complex activates gene expression in the CNS. Nature
+   2014 Dec; 516(7531).
+
+   Lyons DB, Magklara A, Goh T, Sampath SC, Schaefer A, Schotta G,
+   Lomvardas S. Heterochromatin-mediated gene silencing facilitates the
+   diversification of olfactory neurons. Cell reports 2014 Nov; 9(3).
+
+   Maze I, Chaudhury D, Dietz DM, Von Schimmelmann M, Kennedy PJ, Lobo MK,
+   Sillivan SE, Miller ML, Bagot RC, Sun H, Turecki G, Neve RL, Hurd YL,
+   Shen L, Han MH, Schaefer A, Nestler EJ. G9a influences neuronal subtype
+   specification in striatum. Nature neuroscience 2014 Apr; 17(4).
+
+   Tan CL, Plotkin JL, Venø MT, von Schimmelmann M, Feinberg P, Mann S,
+   Handler A, Kjems J, Surmeier DJ, O'Carroll D, Greengard P, Schaefer A.
+   MicroRNA-128 governs neuronal excitability and motor behavior in mice.
+   Science (New York, N.Y.) 2013 Dec; 342(6163).
+
+   O'Carroll D, Schaefer A. General Principals of miRNA Biogenesis and
+   Regulation in the Brain. Neuropsychopharmacology : official publication
+   of the American College of Neuropsychopharmacology 2012 Jun;.
+
+   Schaefer A, Tarakhovsky A, Greengard P. Epigenetic mechanisms of mental
+   retardation. Progress in drug research. Fortschritte der
+   Arzneimittelforschung. Progrès des recherches pharmaceutiques 2011;
+   67.
+
+   Schaefer A, Im HI, Venø MT, Fowler CD, Min A, Intrator A, Kjems J,
+   Kenny PJ, O'Carroll D, Greengard P. Argonaute 2 in dopamine 2
+   receptor-expressing neurons regulates cocaine addiction. The Journal of
+   Experimental Medicine 2010 Aug; 207(9): Cover page.
+
+   Maze I, Covington HE, Dietz DM, LaPlant Q, Renthal W, Russo SJ,
+   Mechanic M, Mouzon E, Neve RL, Haggarty SJ, Ren Y, Sampath SC, Hurd YL,
+   Greengard P, Tarakhovsky A, Schaefer A, Nestler EJ. Essential role of
+   the histone methyltransferase G9a in cocaine-induced plasticity.
+   Science 2010 Jan; 327(5962).
+
+   Schaefer A, Sampath SC, Intrator A, Min A, Gertler TS, Surmeier DJ,
+   Tarakhovsky A, Greengard P. Control of cognition and adaptive behavior
+   by the GLP/G9a epigenetic suppressor complex. Neuron 2009 Dec; 64(5).
+
+   Heiman M, Schaefer A, Gong S, Peterson JD, Day M, Ramsey KE,
+   Suárez-Fariñas M, Schwarz C, Stephan DA, Surmeier DJ, Greengard P,
+   Heintz N. A translational profiling approach for the molecular
+   characterization of CNS cell types. Cell 2008 Nov; 135(4): Cover page.
+
+   Schaefer A, O'Carroll D, Tan CL, Hillman D, Sugimori M, Llinas R,
+   Greengard P. Cerebellar neurodegeneration in the absence of microRNAs.
+   The Journal of Experimental Medicine 2007 Jul; 204(7): Cover page .
+
+   Meffre E, Schaefer A, Wardemann H, Wilson P, Davis E, Nussenzweig MC.
+   Surrogate light chain expressing human peripheral B cells produce
+   self-reactive antibodies. The Journal of Experimental Medicine 2004
+   Jan; 199(1).
+
+   Wardemann H, Yurasov S, Schaefer A, Young JW, Meffre E, Nussenzweig MC.
+   Predominant autoantibody production by early human B cell precursors.
+   Science 2003 Sep; 301(5638).
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Schaefer did not report having any of the following types of
+   financial relationships with industry during 2014 and/or 2015:
+   consulting, scientific advisory board, industry-sponsored lectures,
+   service on Board of Directors, participation on industry-sponsored
+   committees, equity ownership valued at greater than 5% of a publicly
+   traded company or any value in a privately held company. Please note
+   that this information may differ from information posted on corporate
+   sites due to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 10th Room 10-70A Office
+   1425 Madison Avenue
+   New York, NY 10029
+
+   Icahn Medical Institute Floor 10th Room 10-76 Lab
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49806-8992TMP.html
+javascript:window.print()
+mailto:anne.schaefer@mssm.edu
+http://news.yahoo.com/anne-schaefer-md-phd-mount-sinai-school-medicine-165025203.html
+http://neuroscience.mssm.edu/schaefer/
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/

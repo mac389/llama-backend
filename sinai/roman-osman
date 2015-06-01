@@ -1,0 +1,139 @@
+   "); bodyStart = html.indexOf("
+   ") + 10; bodyEnding = html.indexOf(""); if (titleStart > 0 && titleEnd
+   > 0 && urlStart > 0 && urlEnd > 0 && nameStart > 0 && nameEnding > 0 &&
+   bodyStart > 0 && bodyEnding > 0) { //title = html.substring(titleStart,
+   titleEnd); title = html.substring(nameStart, nameEnding); bodyTxt =
+   html.substring(bodyStart, bodyEnding).toString(); bodyTxt =
+   bodyTxt.replace(regex1, ""); bodyTxt = bodyTxt.replace(regex2, ""); url
+   = html.substring(urlStart, urlEnd);
+   //document.getElementById("entitle").innerHTML = title + "
+   Read More"; document.getElementById("entitle").innerHTML = "
+
+   "+"
+
+   " + bodyTxt + "
+
+   " + "
+
+   Read More
+
+   " + "
+
+   Click to close
+
+   "; var container2012 = $( "#container2012" ); container2012.slideDown(
+   1000 ); } setTimeout(checkEmergencyNotification, 60000); } function
+   closewindow() { jQuery(function( $ ) { $.cookie("notified", true, {
+   path: "/" }, { expires: 1 }); // Get a reference to the container var
+   container2012 = $( "#container2012" ); container2012.slideUp( 1000 );
+   }); } window.onload = function() { checkEmergencyNotification(); };
+
+   Print Profile Print Profile
+
+   roman.osman@mssm.edu
+
+   B.S., Hebrew University
+
+   M.S., Graduate School of the Hebrew University
+
+   Ph.D., Graduate School of Tel-Aviv University
+
+   Vanderbilt University
+
+   DNA Damage and Repair
+
+   The long-term goal of this project is to develop a molecular
+   understanding, derived from a combined theoretical-experimental
+   collaborative approach, of the principles of specific DNA damage
+   recognition and repair. The collaboration is between this laboratory
+   and that of J. B. Alexander Ross.
+
+   Two mechanisms of damage repair are important for the maintenance of
+   the genetic material encoded in DNA. One is the excision of the damage
+   followed by a restoration of the correct DNA sequence in a number of
+   coordinated steps represented by the Base Excision Pathway (BER). The
+   other repair process is accomplished by an error-free translesion
+   synthesis. We study the mechanism of damage recognition and its
+   excision by two repair enzymes: Endonuclease V (endoV) recognizes a
+   thymine dimer (TD) and flips the complementary adenine to the 5-thymine
+   of the TD into a protein pocket before hydrolyzing the glycosidic bond
+   of the TD. Uracil DNA Glycosylase (UDG) recognizes uracil in DNA, flips
+   it into a specific pocket and hydrolyzes the glycosidic bond. It
+   appears that the mechanism of base flipping is universal to base
+   excision repair. Thus, this project concentrates on understanding the
+   molecular, energetic and kinetic elements that differentiate base
+   flipping in damaged from undamaged DNA.
+   Specificity of enzymes is determined not only by the recognition event,
+   but also by the catalytic mechanism. The enzymatic catalysis of BER
+   enzymes begins with a glycosylase step. The ionization states of
+   several groups in the active sites of endoV or UDG are important for
+   catalysis. We have computed the pKa values of the amino acids in the
+   active site of endoV and on this basis we propose a catalytic mechanism
+   of the glycosylase step in the enzyme (Fuxreiter, M. Warshel, A. Osman,
+   R. The role of active site residues in the glycosylase step of T4
+   endonuclease V. Computer simulation studies on ionization states.
+   Biochemistry, 38:9577-9589,1999). We have studied by MD simulations the
+   reactant and product states of UDG in complex with its substrate and on
+   the basis of structural, electrostatic and dynamic changes we propose a
+   mechanism of catalysis for the enzyme (Luo, N. Mehler, E. Osman, R.
+   Specificity and catalysis of uracil DNA glycosylase. A molecular
+   dynamics study of reactant and product complexes with DNA.
+   Biochemistry, 38:9209-9220,1999).
+
+   Miaskiewicz K, Miller J, Ornstein R, Osman R. Molecular dynamics
+   simulations of the effects of ring-saturated thymine lesions on DNA
+   structure. Biopolymers 1995; 35: 113-124.
+
+   Laakkonen LJ, Guarnieri F, Perlman JH, Gershengorn MC, Osman R. A
+   refined model of the thyrotropin-releasing hormone (TRH) receptor
+   binding pocket. Novel mixed mode Monte Carlo/Stochastic Dynamics
+   simulation of th. Biochemistry 1996; 35: 7651-7663.
+
+   Miaskiewicz K, Miller J, Cooney M, Osman R. Computatonal simulations of
+   DNA distortions by a cis,syn-cyclobutance thymine dimer lesion. J Am
+   Chem Soc 1996; 118: 9156-9163.
+
+   Laakkonen LJ, Li W, Perlman JH, Guarnieri F, Osman R, Moeller KD,
+   Gershengorn MC. Restricted analogs provide evidence of a biologically
+   active conformation of thyrotropin-releasing hormones. Mol Pharmacol
+   1996; 49: 1092-1096.
+
+   Perlman JH, Colson A-, Wang W, Bence K, Osman R, Gershengorn MC.
+   Interactions between conserved residues in transmembrane helices 1,2,
+   and 7 of the thyrotropin-releasing hormone receptor. J Biol Chem 1997;
+   272: 11937-11942.
+
+   Physicians and scientists on the faculty of the Icahn School of
+   Medicine at Mount Sinai often interact with pharmaceutical, device and
+   biotechnology companies to improve patient care, develop new therapies
+   and achieve scientific breakthroughs. In order to promote an ethical
+   and transparent environment for conducting research, providing clinical
+   care and teaching, Mount Sinai requires that salaried faculty inform
+   the School of their relationships with such companies.
+
+   Dr. Osman did not report having any of the following types of financial
+   relationships with industry during 2014 and/or 2015: consulting,
+   scientific advisory board, industry-sponsored lectures, service on
+   Board of Directors, participation on industry-sponsored committees,
+   equity ownership valued at greater than 5% of a publicly traded company
+   or any value in a privately held company. Please note that this
+   information may differ from information posted on corporate sites due
+   to timing or classification differences.
+
+   Mount Sinai's faculty policies relating to faculty collaboration with
+   industry are posted on our website. Patients may wish to ask their
+   physician about the activities they perform for companies.
+
+   Edit profile in Sinai Central
+
+   Icahn Medical Institute Floor 16 Room 70F
+   1425 Madison Avenue
+   New York, NY 10029
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/"%20+%20url%20+%20"
+file:///var/folders/07/q1dxpd8s56s0tfqh7n6xv3rm0000gn/T/L49750-4051TMP.html
+javascript:window.print()
+mailto:roman.osman@mssm.edu
+http://www.mssm.edu/biomol/faculty/ross.htm
+http://icahn.mssm.edu/about-us/services-and-resources/faculty-resources/handbooks-and-policies/faculty-handbook
+http://sinaicentral.mssm.edu/
