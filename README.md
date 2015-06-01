@@ -21,6 +21,13 @@ Usage
 Backend 
 ==============
 
+ 1. Scraping 
+
+ 2. Pre-processing for natural language processing
+
+ 3. Formatting for app
+
+
   1. scrape_sinai.sh 
    	   1. Acquires the text (without markup) of faculty web pages. 
        1. Creates a folder for each university. Each file in the folder contains the text of the scientist's web page at the university. 
