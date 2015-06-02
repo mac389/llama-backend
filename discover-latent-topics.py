@@ -55,5 +55,5 @@ indexed_corpus_tfidf = tfidf[indexed_corpus]
 lsi = models.LsiModel(indexed_corpus_tfidf,id2word=dictionary,num_topics=10)
 
 with open('latent-topics-%s'%date.today(),'w') as f:
-	for topic in lsi.show_topics(num_words=20,num_topics=100):
+	for topic in lsi.show_topics(num_words=10,num_topics=100):
 		print>>f,topic
