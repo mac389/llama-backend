@@ -6,3 +6,4 @@ venv3/
 
 *.swp
 *.swo
+*.pyc
