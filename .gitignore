@@ -1,3 +1,9 @@
 sinai/
 nyu/
 rockefeller/
+venv/
+venv3/
+
+*.swp
+*.swo
+*.pyc
